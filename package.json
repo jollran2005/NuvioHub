@@ -1,0 +1,25 @@
+{
+  "name": "streamstack",
+  "version": "1.0.0",
+  "description": "An open-source documentation hub and resource directory for the debrid-powered streaming ecosystem.",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "stremio",
+    "nuvio",
+    "debrid",
+    "streaming",
+    "cloudstream",
+    "usenet",
+    "media-stack"
+  ],
+  "author": "jollran2005",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}

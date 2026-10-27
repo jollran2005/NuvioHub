@@ -1,0 +1,61 @@
+name: "Submit a Resource"
+description: "Suggest a new tool, addon, scraper, or debrid service to add to StreamStack"
+title: "[Resource]: "
+labels: ["resource-submission", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping build StreamStack! Please ensure your submission adheres to our policy: **no direct links to copyright-infringing media files or torrents**. Stick to official clients, public repos, or service pages.
+  - type: input
+    id: resource_name
+    attributes:
+      label: "Resource Name"
+      description: "What is the official name of the tool, client, addon, or service?"
+      placeholder: "e.g., Comet, Nuvio, TorBox"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: "Target Category"
+      description: "Which section does this best belong in?"
+      options:
+        - "Core Apps & Forks"
+        - "Debrid Services"
+        - "Stremio Addons"
+        - "Nuvio Addons"
+        - "CloudStream Repos & Plugins"
+        - "Metadata & Catalog Providers"
+        - "Self-Hosting / AIO Instances"
+        - "Usenet Integration"
+        - "Configuration Guides"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: "Official Link / Repository"
+      description: "Official GitHub/GitLab repository or homepage."
+      placeholder: "https://github.com/..."
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: "What does this tool do? Provide a neutral, 1-2 sentence overview."
+      placeholder: "Fast torrent and debrid scraper written in Python with Stremio protocol support."
+    validations:
+      required: true
+  - type: checkboxes
+    id: flags
+    attributes:
+      label: "Requirements & Platforms"
+      description: "Check all that apply:"
+      options:
+        - label: "Requires a Debrid API Key / Token"
+        - label: "Requires self-hosting (Docker / Python)"
+        - label: "Requires third-party metadata API (TMDB, Trakt, etc.)"
+        - label: "CloudStream `.cs3` plugin repository"
+        - label: "Android / Android TV specific"
