@@ -15,11 +15,11 @@ Read the online documentation at: **[https://jollran2005.github.io/StreamStack/]
 
 ## 🗂️ Categories Covered
 
-- **[Core Apps](docs/core-apps/index.md):** Stremio, Nuvio, architecture breakdowns, multi-device sync.
-- **[Debrid Services](docs/debrid-services/index.md):** Real-Debrid, AllDebrid, Premiumize, TorBox, IP concurrency rules.
-- **[Addons & Scrapers](docs/scrapers-addons/index.md):** Torrentio, Comet, Nuvio native addons, CloudStream `.cs3` plugins, metadata providers.
-- **[Self-Hosting & Automation](docs/self-hosting/index.md):** Zurg + Rclone AIO mounts, the Arr stack (Prowlarr, Sonarr, Radarr), reverse proxies.
-- **[Usenet Integration](docs/usenet/index.md):** Indexers, SABnzbd, NZBGet, and hybrid setups.
+- **[Core Apps](docs/core-apps.md):** Nuvio, Stremio, alternative clients, and forks.
+- **[Debrid Services](docs/debrid-services.md):** Real-Debrid, AllDebrid, Premiumize, TorBox, and multihosters.
+- **[Addons & Scrapers](docs/scrapers-addons.md):** Stremio addons, Nuvio addons, CloudStream `.cs3` plugins, and metadata providers.
+- **[Self-Hosting & Automation](docs/self-hosting.md):** AIO debrid mounts, the Arr stack (Prowlarr, Sonarr, Radarr), and reverse proxies.
+- **[Usenet Integration](docs/usenet.md):** Indexers, SABnzbd, NZBGet, and newsreaders.
 - **[Community Guides](docs/guides.md):** Curated external guides, wikis, and megathreads.
 - **[Glossary](docs/glossary.md):** Key concepts and vocabulary.
 

@@ -4,13 +4,13 @@ layout: home
 hero:
   name: "StreamStack"
   text: "The Modern Debrid & Streaming Stack Directory"
-  tagline: "A curated, open-source guide and resource index for Stremio, Nuvio, Debrid services, scrapers, and self-hosted media infrastructure."
+  tagline: "A curated open-source megathread and resource directory for Nuvio, Stremio, Debrid services, scrapers, and self-hosted media infrastructure."
   actions:
     - theme: brand
       text: Explore Core Apps
       link: /core-apps/
     - theme: alt
-      text: Debrid Comparison
+      text: Debrid Services
       link: /debrid-services/
     - theme: alt
       text: Addons & Scrapers
@@ -18,21 +18,32 @@ hero:
 
 features:
   - icon: 📱
-    title: Modern Media Clients
-    details: Complete coverage of multi-platform clients like Stremio and Nuvio, with configuration instructions and feature breakdowns.
+    title: Core Applications
+    details: Modern media aggregation and streaming clients like Nuvio and Stremio.
+    link: /core-apps/
+
   - icon: ⚡
-    title: Debrid Supercharging
-    details: Learn how caching services like Real-Debrid, AllDebrid, TorBox, and Premiumize eliminate buffering and bypass p2p upload restrictions.
+    title: Debrid Services
+    details: High-speed caching providers like Real-Debrid, AllDebrid, TorBox, and Premiumize.
+    link: /debrid-services/
+
   - icon: 🧩
     title: Addons, Scrapers & Plugins
-    details: Objective indexes for Stremio addons (Torrentio, Comet), Nuvio native addons, and CloudStream .cs3 plugin repositories.
+    details: Stremio addons, native Nuvio scrapers, and community CloudStream .cs3 repositories.
+    link: /scrapers-addons/
+
   - icon: 🐳
     title: Self-Hosting & Automation
-    details: Build resilient home media setups using AIO debrid mounts (Zurg, Rclone), the *Arr suite, and automated scrapers.
+    details: Cloud debrid mounts (Zurg, Rclone), the Arr suite, and secure reverse proxies.
+    link: /self-hosting/
+
   - icon: 📰
     title: Usenet Integration
-    details: Understand high-speed Usenet providers, indexers, and automated downloaders alongside modern debrid setups.
-  - icon: 🛡️
-    title: Objective & Non-Infringing
-    details: Pure educational documentation. Zero direct media links or hosted torrents—strictly official tools, repositories, and docs.
+    details: High-speed commercial Usenet indexers, NZB search engines, and automated downloaders.
+    link: /usenet/
+
+  - icon: 📚
+    title: Community Guides
+    details: Curated external setup tutorials, Reddit megathreads, and optimization wikis.
+    link: /guides
 ---
