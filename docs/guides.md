@@ -1,39 +1,30 @@
 ---
 title: Community Guides & Tutorials
-description: Curated directory of external guides, setup tutorials, and megathreads.
+description: Curated directory of external guides, setup tutorials, and uptime monitors.
 ---
 
 # Community Guides
 
-A curated list of external, community-maintained setup guides, wikis, and megathreads across the streaming and debrid ecosystem.
+A curated list of external, community-maintained setup guides, wikis, bootstrappers, and uptime dashboards across the streaming and debrid ecosystem.
 
-## Stremio & Debrid Guides
+## 📖 Official Wikis & Documentation
 
-- ⭐ **[Stremio Guide by Viren070](https://github.com/Viren070/Guides/blob/main/Stremio.md)** - Comprehensive master setup guide for Stremio, Torrentio, and Real-Debrid. ℹ️
-- ⭐ **[Ultimate Guide to Stremio + Torrentio + RD](https://www.reddit.com/r/StremioAddons/comments/yi5jdw/ultimate_guide_to_stremio_torrentio_rd/)** - Definitive community megathread on /r/StremioAddons for configuring Stremio.
-- **[Stremio Web iOS PWA Walkthrough](https://blog.stremio.com/using-stremio-web-on-iphone-ipad/)** - Official guide for running Stremio Web on iPhones and iPads using external players.
+- ⭐ **[Nuvio Wiki](https://nuvio.wiki/)** / [Status](https://nuvio.wiki/status) - Official Nuvio documentation and knowledge base covering setup, addons, and troubleshooting.
 
-<!-- TODO: Add niche Stremio configuration guides and smart TV optimization tutorials here -->
+## 🚀 Setup Wizards & Bootstrappers
 
-## Self-Hosting & AIO Media Stack Guides
+- ⭐ **[Stremx Bootstrapper](https://bootstrapper.stremx.net/)** - Guided step-by-step setup wizard for building a complete Stremio or Nuvio stack from scratch.
+- **[Numb3rs](https://numb3rs.stream/)** - Community guide and interactive setup reference covering stack configuration, numbering conventions, and addon ordering.
 
-- ⭐ **[Trash Guides](https://trash-guides.info/)** - The industry standard reference for configuring Sonarr, Radarr, Prowlarr, quality profiles, and hardlinks.
-- ⭐ **[Zurg Wiki & Setup Guide](https://github.com/debridmediamanager/zurg-testing/wiki)** - Setup documentation for mounting Real-Debrid via Zurg and Rclone into Plex/Jellyfin.
-- **[Debrid Media Manager Guide](https://github.com/debridmediamanager)** - Community walkthrough for curating and batch-adding cached hashes to Real-Debrid.
-- **[ElfHosted Knowledge Base](https://elfhosted.com/guides/)** - Guides for running cloud-hosted Stremio addons, AIO mounts, and self-hosted media instances.
+## 🌍 Community Guides
 
-<!-- TODO: Add unraid debrid templates and docker-compose walk-through links here -->
+- ⭐ **[Viren070's Guides](https://guides.viren070.me/)** - Comprehensive community setup guides covering AIOStreams, debrid configuration, Nuvio, and the full modern streaming stack.
+- **[Duck Guides](https://duck-guides.pages.dev/)** - Community-maintained guide site with setup walkthroughs for Stremio, Nuvio, and debrid services.
 
-## Usenet Guides
+## ⏱️ Status & Uptime Dashboards
 
-- ⭐ **[/r/Usenet FAQ & Wiki](https://www.reddit.com/r/usenet/wiki/index)** - Essential beginner FAQ explaining Usenet backbones, retention, and indexer setup.
-- **[SABnzbd Official Documentation](https://sabnzbd.org/wiki/)** - Comprehensive manual for tuning connections, SSL, and post-processing scripts.
-
-<!-- TODO: Add block account strategy guides and indexer automation tutorials here -->
-
-## Nuvio & CloudStream Guides
-
-- ⭐ **[Nuvio Official Wiki](https://github.com/)** - Getting started documentation for client installation and extension management.
-- **[CloudStream Guide](https://cloudstream.cf/)** - Community tutorial for installing third-party repository links and managing plugins.
-
-<!-- TODO: Add Android TV optimization guides for Nuvio here -->
+- **[ibbylabs Uptime](https://uptime.ibbylabs.dev/)** - Community-run uptime tracker monitoring popular Stremio and Nuvio addons and scraper instances.
+- **[Stremio Status](https://status.stremio-status.com/)** - Independent status monitor for core Stremio services and the most-used community addons.
+- **[Nuvio Wiki Status](https://nuvio.wiki/status)** - Official Nuvio ecosystem status page tracking client availability and backend services.
+- **[Xperience Status](https://xperience-app.com/status)** / [Main](https://xperience-app.com/) - Live uptime dashboard for the Xperience catalog builder and its hosted services.
+- **[NuvioSync Status](https://nuviosync.com/nuvio-status)** / [Main](https://nuviosync.com/) - Embedded Nuvio ecosystem status monitor hosted within the NuvioSync platform.

@@ -4,17 +4,20 @@ layout: home
 hero:
   name: "StreamStack"
   text: "The Modern Debrid & Streaming Stack Directory"
-  tagline: "A curated open-source megathread and resource directory for Nuvio, Stremio, Debrid services, scrapers, and self-hosted media infrastructure."
+  tagline: "A curated open-source megathread and resource directory for Nuvio, Stremio, Debrid services, scrapers, and streaming companion tools."
   actions:
     - theme: brand
       text: Explore Core Apps
       link: /core-apps/
     - theme: alt
-      text: Debrid Services
+      text: Debrid & Usenet
       link: /debrid-services/
     - theme: alt
-      text: Addons & Scrapers
+      text: Add-ons & Plugins
       link: /scrapers-addons/
+    - theme: alt
+      text: Tools & Utilities
+      link: /tools-utilities/
 
 features:
   - icon: 📱
@@ -23,24 +26,19 @@ features:
     link: /core-apps/
 
   - icon: ⚡
-    title: Debrid Services
-    details: High-speed caching providers like Real-Debrid, AllDebrid, TorBox, and Premiumize.
+    title: Debrid & Usenet
+    details: High-speed caching providers like Real-Debrid, AllDebrid, TorBox, Premiumize, and Usenet indexers.
     link: /debrid-services/
 
   - icon: 🧩
-    title: Addons, Scrapers & Plugins
-    details: Stremio addons, native Nuvio scrapers, and community CloudStream .cs3 repositories.
+    title: Add-ons & Plugins
+    details: Installable scrapers, live sports feeds, subtitle sources, and metadata providers.
     link: /scrapers-addons/
 
-  - icon: 🐳
-    title: Self-Hosting & Automation
-    details: Cloud debrid mounts (Zurg, Rclone), the Arr suite, and secure reverse proxies.
-    link: /self-hosting/
-
-  - icon: 📰
-    title: Usenet Integration
-    details: High-speed commercial Usenet indexers, NZB search engines, and automated downloaders.
-    link: /usenet/
+  - icon: 🛠️
+    title: Tools & Utilities
+    details: Custom catalog and homescreen builders, account syncing utilities, visual badging, and device sideloaders.
+    link: /tools-utilities/
 
   - icon: 📚
     title: Community Guides
