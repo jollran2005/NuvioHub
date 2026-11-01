@@ -5,22 +5,16 @@ description: Master catalog of community scrapers, debrid resolvers, metadata pr
 
 # Add-ons & Plugins
 
-::: tip Setup Flow
-Configure your scrapers with your Debrid API token first before installing them into your client. 🔑
-:::
-
 ## 🧲 P2P & Torrent Scrapers
-
-- ⭐ **[Torrentio](https://torrentio.strem.fun)** / [Configurator](https://torrentio.strem.fun/configure) - Primary torrent scraper and debrid resolver for Stremio. Supports RD, AD, PM, TorBox, and DL. 🔑
-- ⭐ **[Comet](https://github.com/g0ldy/comet)** / [ElfHosted](https://comet.elfhosted.com/configure) - High-speed open-source Python Stremio addon with proxying and smart debrid caching. 🔑 💻
-- **[Knightcrawler](https://knightcrawler.elfhosted.com)** / [Configurator](https://knightcrawler.elfhosted.com/configure) - ElfHosted community fork of Torrentio with alternative tracker sources. 🔑
-- ⭐ **[MediaFusion](https://github.com/mhdzumair/MediaFusion)** / [Configurator](https://mediafusion.elfhosted.com/configure) - Multi-source scraper supporting movies, TV, anime, and live sports events. Self-hostable. 🔑 💻
-- **[Annatar](https://github.com/gabedev/annatar)** / [Source Code](https://github.com/gabedev/annatar) - Lightweight torrent and debrid scraper written in Rust. 🔑 💻
-- **[StremThru (Torz)](https://stremthru.13377001.xyz/stremio/torz/configure)** - Proxy and passthrough layer for Stremio addon traffic with torrent-focused routing and debrid integration. 🔑
-- **[Peerflix](https://config.peerflix.mov/)** - P2P torrent scraper with a dedicated web configurator for source and debrid preferences. 🔑
+- ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/) / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances)** / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-Source Addon + Debrid Aggregator
+- **[Torrentio](https://torrentio.strem.fun)** / [Configurator](https://torrentio.strem.fun/configure) - Primary torrent scraper and debrid resolver for Stremio. Supports RD, AD, PM, TorBox, and DL.
+- **[Comet](https://github.com/g0ldy/comet)** / [ElfHosted](https://comet.elfhosted.com/configure) - High-speed open-source Python Stremio addon with proxying and smart debrid caching.
+- **[MediaFusion](https://github.com/mhdzumair/MediaFusion)** / [Configurator](https://mediafusion.elfhosted.com/configure) - Multi-source scraper supporting movies, TV, anime, and live sports events. Self-hostable.
+- **[StremThru Torz](https://stremthru.13377001.xyz/stremio/torz/configure)** - Proxy and passthrough layer for Stremio addon traffic with torrent-focused routing and debrid integration.
+- **[Peerflix](https://config.peerflix.mov/)** - P2P torrent scraper with a dedicated web configurator for source and debrid preferences.
 - **[Meteor for the Weebs](http://meteorfortheweebs.midnightignite.me/configure)** - Anime-focused community scraper instance hosted on Midnight Ignite infrastructure.
-- **[MediaFusion for the Weebs](http://mediafusionfortheweebs.midnightignite.me/app/configure)** - Anime-oriented MediaFusion instance with curated tracker and source preferences for Japanese media. 🔑
-- **[TorrentsDB](https://torrentsdb.com/)** - Community torrent index with Stremio addon integration for direct debrid resolution. 🔑
+- **[MediaFusion for the Weebs](http://mediafusionfortheweebs.midnightignite.me/app/configure)** - Anime-oriented MediaFusion instance with curated tracker and source preferences for Japanese media.
+- **[TorrentsDB](https://torrentsdb.com/)** - Community torrent index with Stremio addon integration for direct debrid resolution.
 
 ## 🌐 HTTP Stream Addons
 
@@ -49,6 +43,8 @@ HTTP stream addons serve third-party hosted content. Availability and reliabilit
 - **[FlixNest](https://flixnest.app/flix-streams/)** - Covers live sports streams in addition to its on-demand movie and TV catalog.
 - **[MediaFusion](https://mediafusion.elfhosted.com/configure)** - Multi-source debrid scraper with built-in live sports channels and event stream support. 🔑 💻
 
+
+
 ## 📦 Plugin Directories & Repositories
 
 - ⭐ **[Nuvio Plugin Library](https://nuvio-plugin-library.vercel.app/)** - Community-curated directory for discovering and installing Nuvio plugins and addon bundles.
@@ -63,7 +59,7 @@ HTTP stream addons serve third-party hosted content. Availability and reliabilit
 
 ## 🖼️ Poster & Metadata Providers
 
-- **[AIOMetadata](https://aiometadata.elfhosted.com/configure)** - Power-user metadata addon pulling enriched data from TMDB, TVDB, TVMaze, MyAnimeList, IMDb, and Fanart.tv. 💻
+- ⭐ **[AIOMetadata](https://github.com/cedya77/aiometadata) / [Instances](https://uptime.ibbylabs.dev/aiometadata)** - Multi-Source Metadata & Catalogs Addon
 - **[btttr](https://btttr.cc/)** - Community poster provider addon serving clean, high-quality artwork for Stremio and Nuvio title cards.
 - **[Pictorium](https://pictorium.duckdns.org/)** - Self-hostable poster provider with support for custom poster libraries and artwork overrides. 💻
 - **[PostersPlus](https://github.com/UmbraProjects/PostersPlus)** - Open-source poster enhancement addon that supplements standard artwork with extended cover art sources. 💻

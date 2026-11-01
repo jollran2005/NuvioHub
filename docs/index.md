@@ -25,11 +25,6 @@ features:
     details: Modern media aggregation and streaming clients like Nuvio and Stremio.
     link: /core-apps/
 
-  - icon: ⚡
-    title: Debrid & Usenet
-    details: High-speed caching providers like Real-Debrid, AllDebrid, TorBox, Premiumize, and Usenet indexers.
-    link: /debrid-services/
-
   - icon: 🧩
     title: Add-ons & Plugins
     details: Installable scrapers, live sports feeds, subtitle sources, and metadata providers.
@@ -39,6 +34,11 @@ features:
     title: Tools & Utilities
     details: Custom catalog and homescreen builders, account syncing utilities, visual badging, and device sideloaders.
     link: /tools-utilities/
+
+  - icon: ⚡
+    title: Debrid & Usenet
+    details: High-speed caching providers like Real-Debrid, AllDebrid, TorBox, Premiumize, and Usenet indexers.
+    link: /debrid-services/
 
   - icon: 📚
     title: Community Guides

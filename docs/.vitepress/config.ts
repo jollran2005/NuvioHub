@@ -20,9 +20,9 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Core Apps', link: '/core-apps' },
-      { text: 'Debrid & Usenet', link: '/debrid-services' },
-      { text: 'Add-ons & Plugins', link: '/scrapers-addons/' },
+      { text: 'Add-ons & Plugins', link: '/addons' },
       { text: 'Tools & Utilities', link: '/tools-utilities' },
+      { text: 'Debrid & Usenet', link: '/debrid-services' },
       { text: 'Guides', link: '/guides' },
       { text: 'Glossary', link: '/glossary' }
     ],
@@ -31,9 +31,9 @@ export default defineConfig({
         text: 'Navigation',
         items: [
           { text: 'Core Applications', link: '/core-apps' },
-          { text: 'Debrid & Usenet', link: '/debrid-services' },
-          { text: 'Add-ons & Plugins', link: '/scrapers-addons/' },
+          { text: 'Add-ons & Plugins', link: '/addons' },
           { text: 'Tools & Utilities', link: '/tools-utilities' },
+          { text: 'Debrid & Usenet', link: '/debrid-services' },
           { text: 'Community Guides', link: '/guides' },
           { text: 'Glossary', link: '/glossary' }
         ]

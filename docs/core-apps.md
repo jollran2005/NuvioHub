@@ -7,8 +7,8 @@ description: Primary media aggregation and streaming clients.
 
 ## Applications
 
-- ⭐ **[Nuvio](https://nuvio.tv/)** / [Downloads](https://nuvio.tv/#get) / [GitHub](https://github.com/NuvioMedia) - Modern media streaming client with add-on and plugin support. Main repositories cover [NuvioTV](https://github.com/NuvioMedia/NuvioTV), [NuvioMobile](https://github.com/NuvioMedia/NuvioMobile), [NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop), and [NuvioTVSmart](https://github.com/NuvioMedia/NuvioTVSmart).
-- **[Stremio](https://www.stremio.com/)** / [Downloads](https://www.stremio.com/downloads) / [GitHub](https://github.com/stremio) - Streaming client with add-on and plugin support, predecessor to Nuvio.
+- ⭐ **[Nuvio](https://nuvio.tv/)** / [Downloads](https://nuvio.tv/#get) / <a href="https://github.com/NuvioMedia" title="GitHub"><span class="icon-link icon-github"></span></a> - Modern media streaming client with add-on and plugin support.
+- **[Stremio](https://www.stremio.com/)** / [Downloads](https://www.stremio.com/downloads)  / <a href="https://github.com/stremio" title="GitHub"><span class="icon-link icon-github"></span></a> - Streaming client with add-on and plugin support, predecessor to Nuvio.
 
 ## Forks
 
@@ -37,6 +37,6 @@ description: Primary media aggregation and streaming clients.
 - **[Nuvio TV for Roku](https://github.com/Esmequiinn/NuvioTVSmart-Roku)** - Custom BrightScript/SceneGraph bringing Nuvio to Roku devices.
 
 ### Web Clients
-- ⭐ **[NuvioStreamX](https://www.nuviostreamx.com/)**
-- **[NuvioWeb](https://nuvio.alphasquare.my.id/)**
+- **[NuvioStreamX](https://www.nuviostreamx.com/)**
+- **[NuvioWeb](https://nuvio.alphasquare.my.id/)** / <a href="https://github.com/alphasquare404/NuvioWeb" title="GitHub"><span class="icon-link icon-github"></span></a>
 - **[TikTak TV](https://www.tiktaktv.me/)** / <a href="https://github.com/zachgus33/Tik-TakTV" title="GitHub"><span class="icon-link icon-github"></span></a>
