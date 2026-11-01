@@ -7,25 +7,20 @@ description: Master catalog of community scrapers, debrid resolvers, metadata pr
 
 ## 🧲 P2P & Torrent Scrapers
 - ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/) / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances)** / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-Source Addon + Debrid Aggregator
-- **[Torrentio](https://torrentio.strem.fun)** / [Configurator](https://torrentio.strem.fun/configure) - Primary torrent scraper and debrid resolver for Stremio. Supports RD, AD, PM, TorBox, and DL.
-- **[Comet](https://github.com/g0ldy/comet)** / [ElfHosted](https://comet.elfhosted.com/configure) - High-speed open-source Python Stremio addon with proxying and smart debrid caching.
-- **[MediaFusion](https://github.com/mhdzumair/MediaFusion)** / [Configurator](https://mediafusion.elfhosted.com/configure) - Multi-source scraper supporting movies, TV, anime, and live sports events. Self-hostable.
-- **[StremThru Torz](https://stremthru.13377001.xyz/stremio/torz/configure)** - Proxy and passthrough layer for Stremio addon traffic with torrent-focused routing and debrid integration.
-- **[Peerflix](https://config.peerflix.mov/)** - P2P torrent scraper with a dedicated web configurator for source and debrid preferences.
-- **[Meteor for the Weebs](http://meteorfortheweebs.midnightignite.me/configure)** - Anime-focused community scraper instance hosted on Midnight Ignite infrastructure.
-- **[MediaFusion for the Weebs](http://mediafusionfortheweebs.midnightignite.me/app/configure)** - Anime-oriented MediaFusion instance with curated tracker and source preferences for Japanese media.
-- **[TorrentsDB](https://torrentsdb.com/)** - Community torrent index with Stremio addon integration for direct debrid resolution.
+- **[Torrentio](https://torrentio.strem.fun)** - Torrent / Debrid
+- **[Comet](https://github.com/g0ldyy/comet)** / [Instances](https://stremio-addons.net/addons/comet) - Torrent / Debrid / Usenet
+- **[MediaFusion](https://github.com/mhdzumair/MediaFusion)** / [Instances](https://stremio-addons.net/addons/mediafusion-elfhosted) - Torrent / Debrid / Live TV & Sports
+- **[StremThru Torz](https://stremthru.13377001.xyz/stremio/torz/configure)** - Torrent / Debrid
+- **[Peerflix](https://config.peerflix.mov/)** - Torrent / Debrid
+- **[Meteor](https://meteorfortheweebs.midnightignite.me/stremio/configure)** - Torrent / Debrid
+- **[TorrentsDB](https://torrentsdb.com/)** - Torrent / Debrid
 
 ## 🌐 HTTP Stream Addons
 
-::: warning
-HTTP stream addons serve third-party hosted content. Availability and reliability vary by provider. Always check addon uptime before reporting stream issues.
-:::
-
-- **[HDHub](https://hdhub.thevolecitor.qzz.io/)** - Community HTTP stream addon with an HD-focused content catalog.
-- **[Pengu](https://pengu.uk/)** - General-purpose HTTP stream addon covering movies and TV series. Also provides live sports coverage — see [Live Sports Addons](#live-sports-addons).
-- **[HD Plavio](https://hd.plavio.site/configure)** - Configurable HTTP stream addon with HD-prioritized source selection.
-- **[CNCVerse](https://cncverse.dpdns.org/configure)** - Community HTTP stream addon with configurable source routing. Also covers live sports — see [Live Sports Addons](#live-sports-addons).
+- **[PenguPlay](https://pengu.uk/)** - Movies / TV-Shows / Anime / Live TV
+- **[HDHub](https://hdhub.thevolecitor.qzz.io/)** - Movies / TV-Shows
+- **[HD Plavio](https://hd.plavio.site/configure)** - Movies / TV-Shows / Live TV
+- **[CNCVerse](https://cncverse.dpdns.org/configure)** - Movies / TV-Shows / Anime / Live TV
 - **[BoringWays Pipe](https://pipe.boringways.workers.dev/configure)** - Cloudflare Workers-based stream proxy and request routing addon.
 - **[ST Streams](https://st.111477.xyz/)** - Community-hosted HTTP stream source addon.
 - **[WebStream RMBG](https://87d6a6ef6b58-webstreamrmbg.baby-beamup.club/configure)** - Community HTTP stream addon hosted on BeamUp infrastructure with a web configurator.
