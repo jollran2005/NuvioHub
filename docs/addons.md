@@ -3,47 +3,49 @@ title: Add-ons & Plugins
 description: Master catalog of community scrapers, debrid resolvers, metadata providers, and streaming addons.
 ---
 
+::: tip Debrid dependancy
+Add-ons marked⚡supports debrid services. Add-ons marked⚡⚡require a debrid service.
+:::
+
 # Add-ons & Plugins
 
 ## 🧲 P2P & Torrent Scrapers
-- ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/) / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances)** / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-Source Addon + Debrid Aggregator
-- **[Torrentio](https://torrentio.strem.fun)** - Torrent / Debrid
-- **[Comet](https://github.com/g0ldyy/comet)** / [Instances](https://stremio-addons.net/addons/comet) - Torrent / Debrid / Usenet
-- **[MediaFusion](https://github.com/mhdzumair/MediaFusion)** / [Instances](https://stremio-addons.net/addons/mediafusion-elfhosted) - Torrent / Debrid / Live TV & Sports
-- **[StremThru Torz](https://stremthru.13377001.xyz/stremio/torz/configure)** - Torrent / Debrid
-- **[Peerflix](https://config.peerflix.mov/)** - Torrent / Debrid
-- **[Meteor](https://meteorfortheweebs.midnightignite.me/stremio/configure)** - Torrent / Debrid
-- **[TorrentsDB](https://torrentsdb.com/)** - Torrent / Debrid
+- ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/) / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances)** / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-Source Addon + Debrid Aggregator ⚡
+- **[Torrentio](https://torrentio.strem.fun)** - Torrent / Debrid ⚡
+- **[Comet](https://github.com/g0ldyy/comet)** / [Instances](https://stremio-addons.net/addons/comet) - Torrent / Debrid / Usenet ⚡
+- **[MediaFusion](https://github.com/mhdzumair/MediaFusion)** / [Instances](https://stremio-addons.net/addons/mediafusion-elfhosted) - Torrent / Debrid / Live TV & Sports ⚡
+- **[StremThru Torz](https://stremthru.13377001.xyz/stremio/torz/configure)** - Torrent / Debrid ⚡
+- **[Peerflix](https://config.peerflix.mov/)** - Torrent / Debrid ⚡
+- **[Meteor](https://meteorfortheweebs.midnightignite.me/stremio/configure)** - Torrent / Debrid ⚡
+- **[TorrentsDB](https://torrentsdb.com/)** - Torrent / Debrid ⚡
 
 ## 🌐 HTTP Stream Addons
 
-- **[PenguPlay](https://pengu.uk/)** - Movies / TV-Shows / Anime / Live TV
-- **[HDHub](https://hdhub.thevolecitor.qzz.io/)** - Movies / TV-Shows
+- ⭐ **[PenguPlay](https://pengu.uk/)** - Movies / TV-Shows / Anime / Live TV
+- **[HDHub](https://hdhub.thevolecitor.qzz.io/)** - Movies / TV-Shows ⚡
 - **[HD Plavio](https://hd.plavio.site/configure)** - Movies / TV-Shows / Live TV
-- **[CNCVerse](https://cncverse.dpdns.org/configure)** - Movies / TV-Shows / Anime / Live TV
-- **[BoringWays Pipe](https://pipe.boringways.workers.dev/configure)** - Cloudflare Workers-based stream proxy and request routing addon.
-- **[ST Streams](https://st.111477.xyz/)** - Community-hosted HTTP stream source addon.
-- **[WebStream RMBG](https://87d6a6ef6b58-webstreamrmbg.baby-beamup.club/configure)** - Community HTTP stream addon hosted on BeamUp infrastructure with a web configurator.
-- **[FlixNest](https://flixnest.app/flix-streams/)** - HTTP stream addon with both on-demand movies/TV and live sports — see [Live Sports Addons](#live-sports-addons).
-- **[Sooti](https://sooti.info/configure)** - Community HTTP stream addon with configurable source and quality preferences.
+- **[CNCVerse Bridge](https://cncverse.dpdns.org/configure)** - Plugin based addon. Movies / TV-Shows / Anime / Live TV
+- **[1111477](https://st.111477.xyz/)** - Movies / TV-Shows
+- **[WebStreamrMBG](https://87d6a6ef6b58-webstreamrmbg.baby-beamup.club/configure)** - Movies / TV-Shows
+- **[FlixNest](https://flixnest.app/flix-streams/)** - Movies / TV-Shows / Anime / Live TV ⚡
+- **[Sooti](https://sooti.info/configure)** - Community HTTP stream addon with configurable source and quality preferences. ⚡⚡
 
 ## 🏟️ Live Sports Addons
 
-- ⭐ **[NuvioSports](https://nuviosports.xyz/)** - Dedicated live sports catalog addon built specifically for the Nuvio platform.
-- **[HighFly Sports](https://sports.highfly.dev/configure)** - Configurable live sports stream addon with a web-based setup wizard.
-- **[StremVerse](https://stremverse1.alwaysdata.net/)** - Community-hosted instance covering live sports events and scheduled match streams.
-- **[NebulaProSports](https://sports.nebulapro.xyz/sports)** - Live sports stream addon from the NebulaProSports community with multi-sport coverage.
-- **[Pengu](https://pengu.uk/)** - Provides a dedicated live sports section alongside its general on-demand HTTP stream catalog.
-- **[CNCVerse](https://cncverse.dpdns.org/configure)** - Includes live sports event streams within its broader HTTP addon stream catalog.
-- **[FlixNest](https://flixnest.app/flix-streams/)** - Covers live sports streams in addition to its on-demand movie and TV catalog.
-- **[MediaFusion](https://mediafusion.elfhosted.com/configure)** - Multi-source debrid scraper with built-in live sports channels and event stream support. 🔑 💻
+- ⭐ **[NuvioSports](https://nuviosports.xyz/)**
+- **[HighFly Sports](https://sports.highfly.dev/configure)**
+- **[Nebula Sports](https://sports.nebulapro.xyz/sports)**
+- **[PenguPlay](https://pengu.uk/)**
+- **[CNCVerse Bridge](https://cncverse.dpdns.org/configure)**
+- **[FlixNest](https://flixnest.app/flix-streams/)**
+- **[MediaFusion](https://mediafusion.elfhosted.com/configure)**
 
 
 
 ## 📦 Plugin Directories & Repositories
 
-- ⭐ **[Nuvio Plugin Library](https://nuvio-plugin-library.vercel.app/)** - Community-curated directory for discovering and installing Nuvio plugins and addon bundles.
-- **[NuvioPlugin](https://nuvioplugin.com/)** - Plugin discovery and installation portal for the Nuvio ecosystem.
+- ⭐ **[Nuvio Plugin Library](https://nuvio-plugin-library.vercel.app/)**
+- **[NuvioPlugin](https://nuvioplugin.com/)**
 
 ## 📋 Catalog & List Addons
 

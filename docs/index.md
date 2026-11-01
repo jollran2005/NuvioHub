@@ -28,7 +28,7 @@ features:
   - icon: 🧩
     title: Add-ons & Plugins
     details: Installable scrapers, live sports feeds, subtitle sources, and metadata providers.
-    link: /scrapers-addons/
+    link: /addons/
 
   - icon: 🛠️
     title: Tools & Utilities
