@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'StreamStack',
   description: 'The definitive open-source megathread and directory for debrid streaming, Stremio, Nuvio, and media setups.',
-  base: '/StreamStack/',
+  base: '/',
   cleanUrls: true,
   lastUpdated: true,
 
