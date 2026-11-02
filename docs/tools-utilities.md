@@ -3,7 +3,7 @@ title: Tools & Utilities
 description: Catalog builders, account managers, visual formatters, stack configurators, and device deployment tools.
 ---
 
-::: tip Debrid dependancy
+::: tip Paid Tools
 Partially or fully paid tools are marked 💵
 :::
 
@@ -11,11 +11,11 @@ Partially or fully paid tools are marked 💵
 
 A curated catalog of companion web apps, account management utilities, homescreen builders, and device sideloading tools for Nuvio and Stremio.
 
-## 👤 Account & Setup
+## Account & Setup
 
 ### Custom Setup Wizards
 - ⭐ **[Xperience](https://xperience-app.com/)** / [Status](https://xperience-app.com/status) - Custom setup 💵
-- **[Numax](https://numaxofficial.website/)** - Custom setup with addon marketplace / Collections
+- ⭐ **[Numax](https://numaxofficial.website/)** - Custom setup with addon marketplace / Collections
 - **[NuvioInstant](https://nuvioinstant.3hpm.ca/)** - Custom setup with AIO-integration
 - **[UltraMax](https://ultramax.vip/)** - Custom setup
 - **[numb3rs Perfect Setup](https://numb3rs.stream/wizard/)** - Setup wizard for Stremio/Nuvio
@@ -23,9 +23,10 @@ A curated catalog of companion web apps, account management utilities, homescree
 
 ## Profile & Account Management
 
-- ⭐ **[AIOManager](https://github.com/Sonicx161/AIOManager)** - Acconut manager. Add, edit and sync addons
+- ⭐ **[AIOManager](https://github.com/Sonicx161/AIOManager)** - Acconut manager
+- **[Numax](https://numaxofficial.website/)** - Account manager
 - **[NuvioSync](https://nuviosync.com/)** / [Status](https://nuviosync.com/nuvio-status) - Stremio migration & profile sync
-- **[NuvioAccountCloner](https://nuvio-account-cloner.vercel.app/)** - Account manager / Collections buidler
+- **[NuvioAccountCloner](https://nuvio-account-cloner.vercel.app/)** - Account manager
 - **[Kaptain's Tools](https://kaptain.stream/studio)** - Homescreen and profile studio
 - **[Xperience](https://xperience-app.com/)** / [Status](https://xperience-app.com/status) - Add-on manager 💵
 
@@ -41,14 +42,14 @@ A curated catalog of companion web apps, account management utilities, homescree
 - **[NuvioAccountCloner](https://nuvio-account-cloner.vercel.app/collections)** - Collections buidler
 
 
-## 🎨 Badges & Formatting
+## Badges & Formatting
 
 - **[Badger](https://nintle.github.io/Badger/)** - Custom fusion badges
 - **[BetterFormatter](https://9mousaa.github.io/BetterFormatter/)** - Custom fusion badges
 - **[CrispyFormat](https://format.crispytools.xyz/)** - Custom stream list formats
 
 
-## 📲 Device & Platform Tools
+## Device Specific Tools
 
 ### Android TV
 
@@ -62,5 +63,6 @@ A curated catalog of companion web apps, account management utilities, homescree
 
 ## Miscellaneous
 
-- **[IntroDB](https://introdb.app/)** - Skip-intro database
+- **[IntroDB](https://introdb.app/)** - Intro-skip database
+- **[Anime Skip](https://anime-skip.com/)** - Anime intro-skip
 

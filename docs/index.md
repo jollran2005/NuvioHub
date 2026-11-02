@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "StreamStack"
-  text: "The Modern Debrid & Streaming Stack Directory"
-  tagline: "A curated open-source megathread and resource directory for Nuvio, Stremio, Debrid services, scrapers, and streaming companion tools."
+  text: "The Megathread For All Things Nuvio"
+  tagline: "A curated open-source megathread for Nuvio, covering add-ons, debrid services, guides and companion tools."
   actions:
     - theme: brand
       text: Explore Core Apps
@@ -44,4 +44,9 @@ features:
     title: Community Guides
     details: Curated external setup tutorials, Reddit megathreads, and optimization wikis.
     link: /guides
+
+  - icon: 📖
+    title: Glossary
+    details: A glossary list with common terms
+    link: /glossary
 ---

@@ -11,7 +11,7 @@ Partially or fully paid add-ons are marked 💵
 
 # Add-ons & Plugins
 
-## 🧲 P2P & Torrent Scrapers
+## P2P & Torrent Scrapers
 - ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/) / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances)** / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-Source Addon + Debrid Aggregator ⚡
 - **[Torrentio](https://torrentio.strem.fun)** - Torrent / Debrid ⚡
 - **[Comet](https://github.com/g0ldyy/comet)** / [Instances](https://stremio-addons.net/addons/comet) - Torrent / Debrid / Usenet ⚡
@@ -21,7 +21,7 @@ Partially or fully paid add-ons are marked 💵
 - **[Meteor](https://meteorfortheweebs.midnightignite.me/stremio/configure)** - Torrent / Debrid ⚡
 - **[TorrentsDB](https://torrentsdb.com/)** - Torrent / Debrid ⚡
 
-## 🌐 HTTP Stream Addons
+## HTTP Stream Addons
 
 - ⭐ **[PenguPlay](https://pengu.uk/)** - Movies / TV-Shows / Anime / Live TV
 - **[HDHub](https://hdhub.thevolecitor.qzz.io/)** - Movies / TV-Shows ⚡
@@ -32,7 +32,7 @@ Partially or fully paid add-ons are marked 💵
 - **[FlixNest](https://flixnest.app/flix-streams/)** - Movies / TV-Shows / Anime / Live TV ⚡ 💵
 - **[Sooti](https://sooti.info/configure)** - Movies / TV-Shows ⚡⚡
 
-## 🏟️ Live Sports Addons
+## Live Sports Addons
 
 - ⭐ **[NuvioSports](https://nuviosports.xyz/)**
 - **[HighFly Sports](https://sports.highfly.dev/configure)**
@@ -44,18 +44,18 @@ Partially or fully paid add-ons are marked 💵
 
 
 
-## 📦 Plugin Directories & Repositories
+## Plugin Directories & Repositories
 
 - ⭐ **[Nuvio Plugin Library](https://nuvio-plugin-library.vercel.app/)**
 - **[NuvioPlugin](https://nuvioplugin.com/)**
 
-## 📋 Catalog & List Addons
+## Catalog & List Addons
 
 - **[MyLists](https://mylistsaddon.com/catalogs)** - Personal list catalog addon
 - **[TMDB Discover+](https://tmdb-discover-plus.elfhosted.com/)** - TMDB-powered catalog addon
 - **[StremList](https://stremlist.com/)** - Import your IMDb watchlists
 
-## 🖼️ Metadata & Posters
+## Metadata & Posters
 
 ### Metadata
 
@@ -71,7 +71,7 @@ Partially or fully paid add-ons are marked 💵
 - **[TopPosters](https://top-posters.com/)** - Custom posters
 - **[RatingPosterDB](https://ratingposterdb.com/)** - Custom posters 💵
 
-## 💬 Subtitle Addons
+## Subtitle Addons
 
 - **[OpenSubtitles v3](https://opensubtitles-v3.strem.io/)** - Official OpenSubtitles v3 addon.
 - **[OpenSubtitles v3 Pro](https://opensubtitlesv3-pro.dexter21767.com/configure/)** - Enhanced OpenSubtitles v3 addon with additional options
