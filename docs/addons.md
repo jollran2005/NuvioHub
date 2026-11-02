@@ -30,7 +30,7 @@ Partially or fully paid add-ons are marked 💵
 - **[1111477](https://st.111477.xyz/)** - Movies / TV-Shows
 - **[WebStreamrMBG](https://87d6a6ef6b58-webstreamrmbg.baby-beamup.club/configure)** - Movies / TV-Shows
 - **[FlixNest](https://flixnest.app/flix-streams/)** - Movies / TV-Shows / Anime / Live TV ⚡ 💵
-- **[Sooti](https://sooti.info/configure)** - Community HTTP stream addon with configurable source and quality preferences. ⚡⚡
+- **[Sooti](https://sooti.info/configure)** - Movies / TV-Shows ⚡⚡
 
 ## 🏟️ Live Sports Addons
 
@@ -53,8 +53,9 @@ Partially or fully paid add-ons are marked 💵
 
 - **[MyLists](https://mylistsaddon.com/catalogs)** - Personal list catalog addon
 - **[TMDB Discover+](https://tmdb-discover-plus.elfhosted.com/)** - TMDB-powered catalog addon
+- **[StremList](https://stremlist.com/)** - Import your IMDb watchlists
 
-## 🖼️ Poster & Metadata
+## 🖼️ Metadata & Posters
 
 ### Metadata
 
@@ -72,7 +73,7 @@ Partially or fully paid add-ons are marked 💵
 
 ## 💬 Subtitle Addons
 
-- **[OpenSubtitles v3](https://opensubtitles-v3.strem.io/+)** - Official OpenSubtitles v3 addon.
+- **[OpenSubtitles v3](https://opensubtitles-v3.strem.io/)** - Official OpenSubtitles v3 addon.
 - **[OpenSubtitles v3 Pro](https://opensubtitlesv3-pro.dexter21767.com/configure/)** - Enhanced OpenSubtitles v3 addon with additional options
 - **[Subtitles: Extended](https://popcorn-notes.lsoares.workers.dev/)** - Subtitle aggregator with extended trivia
 - **[RosettaSubs](https://rosettasubs.onrender.com/configure)** - Subtitle aggregator
