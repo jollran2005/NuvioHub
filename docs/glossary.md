@@ -1,11 +1,11 @@
 ---
 title: Ecosystem Glossary & Terminology
-description: Common terminology, jargon, and protocol definitions across the streaming ecosystem.
+description: Common terminology and protocol definitions across the streaming ecosystem.
 ---
 
 # Ecosystem Glossary & Terminology
 
-A comprehensive reference for concepts, protocols, formats, and terminology used across the StreamStack ecosystem, including Nuvio, Stremio, Debrid services, Usenet, and community add-ons.
+A comprehensive reference for concepts, protocols, formats, and terminology used across the NuvioHub ecosystem, including Nuvio, Stremio, Debrid services, Usenet, and community add-ons.
 
 ---
 

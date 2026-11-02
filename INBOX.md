@@ -1,4 +1,4 @@
-# StreamStack Staging Inbox
+# NuvioHub Staging Inbox
 
 
 > **Instructions for Contributors & Maintainers:**

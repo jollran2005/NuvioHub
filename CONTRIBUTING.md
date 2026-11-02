@@ -1,6 +1,6 @@
-# Contributing to StreamStack
+# Contributing to NuvioHub
 
-Thank you for contributing to **StreamStack**! We aim to build the cleanest, most scannable index for modern debrid-powered media stacks using the FMHY (FreeMediaHeckYeah) inline listing pattern.
+Thank you for contributing to **NuvioHub**! We aim to build the cleanest, most scannable index for modern debrid-powered media stacks using the FMHY (FreeMediaHeckYeah) inline listing pattern.
 
 ---
 
@@ -38,7 +38,7 @@ To maximize scannability and mobile readability, **do not use Markdown tables** 
 
 ## 3. How to Submit New Resources (GitHub Issues)
 
-1. Head to our [GitHub Issues](https://github.com/jollran2005/StreamStack/issues/new/choose).
+1. Head to our [GitHub Issues](https://github.com/jollran2005/NuvioHub/issues/new/choose).
 2. Select **"Submit a Resource"**.
 3. Fill in the resource name, category, direct URLs, description, and key requirements.
 4. Submit the issue! Maintainers will verify and batch-process submissions into their designated pages.

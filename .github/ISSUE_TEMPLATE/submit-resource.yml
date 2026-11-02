@@ -1,12 +1,12 @@
 name: "Submit a Resource"
-description: "Suggest a new tool, addon, scraper, or debrid service to add to StreamStack"
+description: "Suggest a new tool, addon, scraper, or debrid service to add to NuvioHub"
 title: "[Resource]: "
 labels: ["resource-submission", "triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping build StreamStack! Please ensure your submission adheres to our policy: **no direct links to copyright-infringing media files or torrents**. Stick to official clients, public repos, or service pages.
+        Thanks for helping build NuvioHub! Please ensure your submission adheres to our policy: **no direct links to copyright-infringing media files or torrents**. Stick to official clients, public repos, or service pages.
   - type: input
     id: resource_name
     attributes:

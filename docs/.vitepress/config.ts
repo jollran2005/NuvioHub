@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'StreamStack',
+  title: 'NuvioHub',
   description: 'The definitive open-source megathread and directory for debrid streaming, Stremio, Nuvio, and media setups.',
   base: '/',
   cleanUrls: true,
@@ -9,7 +9,7 @@ export default defineConfig({
 
   themeConfig: {
     logo: '⚡',
-    siteTitle: 'StreamStack',
+    siteTitle: 'NuvioHub',
     search: {
       provider: 'local'
     },
@@ -40,11 +40,11 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/jollran2005/StreamStack' }
+      { icon: 'github', link: 'https://github.com/jollran2005/NuvioHub' }
     ],
     footer: {
       message: 'Organized community directory. No copyrighted content is hosted or indexed.',
-      copyright: 'Copyright © 2026 StreamStack'
+      copyright: 'Copyright © 2026 NuvioHub'
     }
   }
 })

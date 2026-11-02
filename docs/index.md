@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: "StreamStack"
+  name: "NuvioHub"
   text: "The Megathread For All Things Nuvio"
-  tagline: "A curated open-source megathread for Nuvio, covering add-ons, debrid services, guides and companion tools."
+  tagline: "A curated open-source hub for Nuvio, covering add-ons, debrid services, guides and companion tools."
   actions:
     - theme: brand
       text: Download Nuvio

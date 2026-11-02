@@ -1,4 +1,4 @@
-name: Deploy StreamStack to GitHub Pages
+name: Deploy NuvioHub to GitHub Pages
 
 on:
   push:
