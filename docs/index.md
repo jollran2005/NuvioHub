@@ -7,17 +7,17 @@ hero:
   tagline: "A curated open-source megathread for Nuvio, covering add-ons, debrid services, guides and companion tools."
   actions:
     - theme: brand
-      text: Explore Core Apps
-      link: /core-apps/
+      text: Download Nuvio
+      link: /core-apps#applications
     - theme: alt
-      text: Debrid & Usenet
-      link: /debrid-services/
+      text: Catalogs & Collections
+      link: /tools-utilities#catalogs-collections
     - theme: alt
       text: Add-ons & Plugins
-      link: /scrapers-addons/
+      link: /addons/
     - theme: alt
-      text: Tools & Utilities
-      link: /tools-utilities/
+      text: Account & Setup
+      link: /tools-utilities#account-setup
 
 features:
   - icon: 📱
