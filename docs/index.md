@@ -22,22 +22,22 @@ hero:
 features:
   - icon: 📱
     title: Core Applications
-    details: Modern media aggregation and streaming clients like Nuvio and Stremio.
+    details: The main streaming client apps and forks.
     link: /core-apps/
 
   - icon: 🧩
     title: Add-ons & Plugins
-    details: Installable scrapers, live sports feeds, subtitle sources, and metadata providers.
+    details: Installable add-ons for VOD, metadata, live sports, subtitles etc.
     link: /addons/
 
   - icon: 🛠️
     title: Tools & Utilities
-    details: Custom catalog and homescreen builders, account syncing utilities, visual badging, and device sideloaders.
+    details: Custom setups, catalogs & collections, account syncing and more.
     link: /tools-utilities/
 
   - icon: ⚡
     title: Debrid & Usenet
-    details: High-speed caching providers like Real-Debrid, AllDebrid, TorBox, Premiumize, and Usenet indexers.
+    details: Debrid and Usenet providers.
     link: /debrid-services/
 
   - icon: 📚
