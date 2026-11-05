@@ -20,3 +20,11 @@
     -webkit-mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg');
     mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg');
 }
+
+/* Prevent Hero Action Buttons from Wrapping onto a Second Line */
+.VPHero .actions {
+    /* Allow the action buttons container to span full width */
+    max-width: 100% !important;
+    /* Keep buttons in a single horizontal row on standard desktop viewports */
+    flex-wrap: nowrap !important;
+}

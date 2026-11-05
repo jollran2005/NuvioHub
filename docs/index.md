@@ -5,6 +5,9 @@ hero:
   name: "NuvioHub"
   text: "The Megathread For All Things Nuvio"
   tagline: "A curated open-source hub for Nuvio, covering add-ons, debrid services, guides and companion tools."
+  image:
+    src: /hero-logo.png
+    alt: NuvioHub Logo
   actions:
     - theme: brand
       text: Download Nuvio
