@@ -7,16 +7,16 @@ description: Directory of debrid caching providers, Usenet indexers, and newsrea
 
 ## Debrid Services
 
-- ⭐ **[TorBox](https://www.torbox.app/)**
-- **[Real-Debrid](https://real-debrid.com/)**
-- **[AllDebrid](https://alldebrid.com/)**
+- ⭐ **[TorBox](https://torbox.app/subscription?referral=6ac0930c-c3d5-4407-b225-0c6eb160520e)**
+- ⭐ **[Real-Debrid](http://real-debrid.com/?id=15715176)**
 - **[Premiumize](https://www.premiumize.me/)**
+- **[AllDebrid](https://alldebrid.com/)**
+- **[LinkSnappy](https://linksnappy.com/?ref=864856)**
+- **[Deepbrid](https://www.deepbrid.com/aff/go/jollran2005)**
 - **[put.io](https://put.io/)**
 - **[Offcloud](https://offcloud.com/)**
-- **[LinkSnappy](https://linksnappy.com/home)**
 - **[Debrid-Link](https://debrid-link.com/)**
 - **[Mega-Debrid](https://www.mega-debrid.net/en/)**
-- **[Deepbrid](https://www.deepbrid.com/)**
 - **[LiveDebrid](https://livedebrid.com/)** - Live video
 
 ## Usenet
