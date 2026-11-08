@@ -23,7 +23,7 @@ A curated catalog of companion web apps, account management utilities, homescree
 
 ## Profile & Account Management
 
-- ⭐ **[AIOManager](https://github.com/Sonicx161/AIOManager)** - Acconut manager
+- ⭐ **[AIOManager](https://github.com/Sonicx161/AIOManager)** - Account manager
 - **[Numax](https://numaxofficial.website/)** - Account manager
 - **[NuvioSync](https://nuviosync.com/)** / [Status](https://nuviosync.com/nuvio-status) - Stremio migration & profile sync
 - **[NuvioAccountCloner](https://nuvio-account-cloner.vercel.app/)** - Account manager
