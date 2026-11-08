@@ -1,6 +1,6 @@
 # NuvioHub ⚡
 
-> The definitive open-source megathread and community directory for the modern debrid-powered media ecosystem — centered around Nuvio, Stremio, add-ons, companion tools, debrid services, and setup guides.
+> The definitive open-source megathread and community directory for all things pertaining to Nuvio, add-ons, companion tools, debrid services, and setup guides.
 
 [![Built with VitePress](https://img.shields.io/badge/built%20with-VitePress-646CFF.svg)](https://vitepress.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -9,7 +9,7 @@
 
 ## 📖 Live Documentation
 
-Browse the hub online at: **[https://jollran2005.github.io/NuvioHub/](https://jollran2005.github.io/NuvioHub/)**
+Browse the hub online at: **[https://nuviohub.pages.dev/](https://nuviohub.pages.dev/)**
 
 ---
 
