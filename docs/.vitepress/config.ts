@@ -30,7 +30,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Core Apps', link: '/core-apps' },
+      { text: 'Apps & Forks', link: '/core-apps' },
       { text: 'Add-ons & Plugins', link: '/addons' },
       { text: 'Tools & Utilities', link: '/tools-utilities' },
       { text: 'Debrid & Usenet', link: '/debrid-services' },
@@ -41,7 +41,7 @@ export default defineConfig({
       {
         text: 'Navigation',
         items: [
-          { text: 'Core Applications', link: '/core-apps' },
+          { text: 'Apps & Forks', link: '/core-apps' },
           { text: 'Add-ons & Plugins', link: '/addons' },
           { text: 'Tools & Utilities', link: '/tools-utilities' },
           { text: 'Debrid & Usenet', link: '/debrid-services' },

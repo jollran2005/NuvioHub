@@ -24,7 +24,7 @@ hero:
 
 features:
   - icon: 📱
-    title: Core Applications
+    title: Apps & Forks
     details: The main streaming client apps and forks.
     link: /core-apps/
 

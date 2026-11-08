@@ -1,9 +1,9 @@
 ---
-title: Core Applications
+title: Apps & Forks
 description: Primary media aggregation and streaming clients.
 ---
 
-# Core Applications
+# Apps & Forks
 
 ## Applications
 
