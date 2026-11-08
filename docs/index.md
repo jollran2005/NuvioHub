@@ -4,7 +4,6 @@ layout: home
 hero:
   name: "NuvioHub"
   text: "The Megathread For All Things Nuvio"
-  tagline: "A curated open-source hub for Nuvio, covering add-ons, debrid services, guides and companion tools."
   image:
     src: /hero-logo.png
     alt: NuvioHub Logo
@@ -45,11 +44,11 @@ features:
 
   - icon: 📚
     title: Community Guides
-    details: Curated external setup tutorials, Reddit megathreads, and optimization wikis.
+    details: Setup tutorials, wikis, and official documentation.
     link: /guides
 
   - icon: 📖
     title: Glossary
-    details: A glossary list with common terms
+    details: A glossary list with common terms.
     link: /glossary
 ---
