@@ -11,7 +11,7 @@ Partially or fully paid add-ons are marked 💵
 
 # Add-ons & Plugins
 
-## P2P & Torrent Scrapers
+## P2P & Torrents
 - ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/) / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances)** / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-Source Addon + Debrid Aggregator ⚡
 - **[Torrentio](https://torrentio.strem.fun)** - Torrent / Debrid ⚡
 - **[Comet](https://github.com/g0ldyy/comet)** / [Instances](https://stremio-addons.net/addons/comet) - Torrent / Debrid / Usenet ⚡
@@ -21,7 +21,7 @@ Partially or fully paid add-ons are marked 💵
 - **[Meteor](https://meteorfortheweebs.midnightignite.me/stremio/configure)** - Torrent / Debrid ⚡
 - **[TorrentsDB](https://torrentsdb.com/)** - Torrent / Debrid ⚡
 
-## HTTP Stream Addons
+## HTTP Streams
 
 - ⭐ **[PenguPlay](https://pengu.uk/)** - Movies / TV-Shows / Anime / Live TV
 - **[HDHub](https://hdhub.thevolecitor.qzz.io/)** - Movies / TV-Shows ⚡
@@ -32,7 +32,7 @@ Partially or fully paid add-ons are marked 💵
 - **[FlixNest](https://flixnest.app/flix-streams/)** - Movies / TV-Shows / Anime / Live TV ⚡ 💵
 - **[Sooti](https://sooti.info/configure)** - Movies / TV-Shows ⚡⚡
 
-## Live Sports Addons
+## Live Sports
 
 - ⭐ **[NuvioSports](https://nuviosports.xyz/)**
 - **[Sports Streams](https://sports.highfly.dev/configure)**
@@ -43,9 +43,13 @@ Partially or fully paid add-ons are marked 💵
 - **[FlixNest](https://flixnest.app/flix-streams/)**
 - **[MediaFusion](https://mediafusion.elfhosted.com/configure)**
 
+## Other Content Add-ons
 
+- **[Lanio](https://github.com/deejay189393/YouStream)** - Stream media available on your LAN
+- **[StremThru Store](https://stremthru.13377001.xyz/stremio/store/configure)** - Stream from your debrid catalog ⚡⚡
+- **[YouStream](https://youstream.up.railway.app/configure)** / <a href="https://github.com/deejay189393/YouStream" title="GitHub"><span class="icon-link icon-github"></span></a> - Stream movies and tv-shows available on YouTube
 
-## Plugin Directories & Repositories
+## Plugin Directories
 
 - ⭐ **[Nuvio Plugin Library](https://nuvio-plugin-library.vercel.app/)**
 - **[NuvioPlugin](https://nuvioplugin.com/)**
@@ -79,4 +83,5 @@ Partially or fully paid add-ons are marked 💵
 - **[https://submaker.elfhosted.com/](https://github.com/xtremexq/StremioSubMaker)** - Subtitle aggregator with AI translations
 - **[OpenSubtitles v3](https://opensubtitles-v3.strem.io/)** - Official OpenSubtitles v3 addon.
 - **[OpenSubtitles v3 Pro](https://opensubtitlesv3-pro.dexter21767.com/configure/)** - Enhanced OpenSubtitles v3 addon with additional options
+- **[Stremio Community Subtitles](https://stremio-community-subtitles.top/)** / <a href="https://github.com/skoruppa/stremio-community-subtitles" title="GitHub"><span class="icon-link icon-github"></span></a> - Community made subtitle database
 
