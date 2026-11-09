@@ -41,6 +41,7 @@ description: Primary media aggregation and streaming clients.
 - ⭐ **[Nuvio TV for tvOS](https://github.com/bobsupra/NuvioTVOS)** - tvOS client with Siri Remote gestures, subtitle autosync, and AetherEngine/MPVKit playback.
 
 ### Web Clients
+- ⭐ **[Nuvio Web by Lucaboox](https://lucaboox.github.io/nuvio-web/)**
 - **[NuvioStreamX](https://www.nuviostreamx.com/)**
 - **[NuvioWeb](https://nuvio.alphasquare.my.id/)** / <a href="https://github.com/alphasquare404/NuvioWeb" title="GitHub"><span class="icon-link icon-github"></span></a>
 - **[TikTak TV](https://www.tiktaktv.me/)** / <a href="https://github.com/zachgus33/Tik-TakTV" title="GitHub"><span class="icon-link icon-github"></span></a>
