@@ -73,9 +73,10 @@ Partially or fully paid add-ons are marked 💵
 - **[RatingPosterDB](https://ratingposterdb.com/)** - Custom posters 💵
 
 ## Subtitle Addons
-
-- **[OpenSubtitles v3](https://opensubtitles-v3.strem.io/)** - Official OpenSubtitles v3 addon.
-- **[OpenSubtitles v3 Pro](https://opensubtitlesv3-pro.dexter21767.com/configure/)** - Enhanced OpenSubtitles v3 addon with additional options
 - **[Subtitles: Extended](https://popcorn-notes.lsoares.workers.dev/)** - Subtitle aggregator with extended trivia
 - **[RosettaSubs](https://rosettasubs.onrender.com/configure)** - Subtitle aggregator
 - **[SubSense](https://subsense.nepiraw.com/)** - Subtitle aggregator
+- **[https://submaker.elfhosted.com/](https://github.com/xtremexq/StremioSubMaker)** - Subtitle aggregator with AI translations
+- **[OpenSubtitles v3](https://opensubtitles-v3.strem.io/)** - Official OpenSubtitles v3 addon.
+- **[OpenSubtitles v3 Pro](https://opensubtitlesv3-pro.dexter21767.com/configure/)** - Enhanced OpenSubtitles v3 addon with additional options
+
