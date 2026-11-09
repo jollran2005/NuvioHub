@@ -16,7 +16,7 @@ Partially or fully paid add-ons are marked 💵
 - **[Torrentio](https://torrentio.strem.fun)** - Torrent / Debrid ⚡
 - **[Comet](https://github.com/g0ldyy/comet)** / [Instances](https://stremio-addons.net/addons/comet) - Torrent / Debrid / Usenet ⚡
 - **[MediaFusion](https://github.com/mhdzumair/MediaFusion)** / [Instances](https://stremio-addons.net/addons/mediafusion-elfhosted) - Torrent / Debrid / Live TV & Sports ⚡
-- **[StremThru Torz](https://stremthru.13377001.xyz/stremio/torz/configure)** - Torrent / Debrid ⚡
+- **[StremThru Torz](https://stremthru.13377001.xyz/stremio/torz/configure), [2](https://stremthrufortheweebs.midnightignite.me/stremio/torz/configure), [3](https://stremthru.fortheweak.cloud/stremio/torz/configure), [4](https://stremthru.elfhosted.com/stremio/torz/configure)** - Torrent / Debrid ⚡
 - **[Peerflix](https://config.peerflix.mov/)** - Torrent / Debrid ⚡
 - **[Meteor](https://meteorfortheweebs.midnightignite.me/stremio/configure)** - Torrent / Debrid ⚡
 - **[TorrentsDB](https://torrentsdb.com/)** - Torrent / Debrid ⚡
@@ -80,7 +80,7 @@ Partially or fully paid add-ons are marked 💵
 - **[Subtitles: Extended](https://popcorn-notes.lsoares.workers.dev/)** - Subtitle aggregator with extended trivia
 - **[RosettaSubs](https://rosettasubs.onrender.com/configure)** - Subtitle aggregator
 - **[SubSense](https://subsense.nepiraw.com/)** - Subtitle aggregator
-- **[https://submaker.elfhosted.com/](https://github.com/xtremexq/StremioSubMaker)** - Subtitle aggregator with AI translations
+- **[SubMaker](https://submaker.elfhosted.com/)** / <a href="https://github.com/xtremexq/StremioSubMaker" title="GitHub"><span class="icon-link icon-github"></span></a> - Subtitle aggregator with AI translations
 - **[OpenSubtitles v3](https://opensubtitles-v3.strem.io/)** - Official OpenSubtitles v3 addon.
 - **[OpenSubtitles v3 Pro](https://opensubtitlesv3-pro.dexter21767.com/configure/)** - Enhanced OpenSubtitles v3 addon with additional options
 - **[Stremio Community Subtitles](https://stremio-community-subtitles.top/)** / <a href="https://github.com/skoruppa/stremio-community-subtitles" title="GitHub"><span class="icon-link icon-github"></span></a> - Community made subtitle database
