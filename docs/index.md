@@ -15,7 +15,7 @@ hero:
       text: Catalogs & Collections
       link: /tools-utilities#catalogs-collections
     - theme: alt
-      text: Add-ons & Plugins
+      text: Add-ons
       link: /addons/
     - theme: alt
       text: Account & Setup
