@@ -26,4 +26,3 @@ Services marked 🔗 contain my personal referral links. This does not affect wh
 ## Usenet
 
 - **[FMHY's Usenet Directory](https://fmhy.net/downloading#usenet)** - Providers / Indexers / Guides
-<!-- TODO: Add Usenet indexers, clients, and newsreaders here -->

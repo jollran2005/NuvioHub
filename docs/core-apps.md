@@ -24,6 +24,7 @@ description: Primary media aggregation and streaming clients.
 
 - ⭐ **[Nuvio Arc](https://github.com/ysosrs123/NuvioTV-Fork)** - Adds local seek thumbnails, TV remote mapping, lossless bitstream audio, and native Dolby Vision.
 - ⭐ **[NuvioTV Reshaped](https://github.com/DavidVamaiotu/NuvioTV-Reshaped)** - Adds subtitle AutoSync, seek previews, custom fonts, pill navigation, and Live TV.
+- **[Nuvio TV Launcher](https://github.com/Br0ck25/NuvioTVLauncher)** - Integrates Nuvio with an Android TV launcher replacement and Live TV support.
 - **[Nuvio + IPTV](https://github.com/homelessbrian/NuvioPlusIPTV)** - Integrates TiviMate-style IPTV, a Sports hub with automatic channel matching, catch-up, recordings, and provider VOD into Nuvio.
 - **[NuvioTV-Lite](https://github.com/hackerslash/NuvioTV-Lite)** - Performance-focused fork tuned for low ram boxes: smaller APK, capped playback buffers, in-app OTA updates.
 
