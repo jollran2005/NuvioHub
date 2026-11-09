@@ -47,6 +47,7 @@ A curated catalog of companion web apps, account management utilities, homescree
 - **[Badger](https://nintle.github.io/Badger/)** - Custom fusion badges
 - **[BetterFormatter](https://9mousaa.github.io/BetterFormatter/)** - Custom fusion badges
 - **[CrispyFormat](https://format.crispytools.xyz/)** - Custom stream list formats
+- **[Formater by u/stupididiots999](https://www.reddit.com/r/aiostreams/comments/1tayu91/new_v3_aiostreams_format/)**
 
 
 ## Device Specific Tools
