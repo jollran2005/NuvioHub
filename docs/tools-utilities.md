@@ -40,6 +40,8 @@ A curated catalog of companion web apps, account management utilities, homescree
 - **[Nuvio Collections Editor](https://yaarpatandaraa.github.io/nuvio-collections-editor/)** - Web-based collections editor
 - **Stremio LabAR [Catalogs](https://catalogs.stremiolabar.com/) / [Collections](https://collections.stremiolabar.com/)** - Catalog and collections curator (Arabic)
 - **[NuvioAccountCloner](https://nuvio-account-cloner.vercel.app/collections)** - Collections buidler
+- **[Backdrop Generator](https://paytonjewell.github.io/Nuvio-Backdrop-Generator/)** - Generate collection images
+- **[Lumina](https://lumina-image.lovable.app/)** - Generate collection images
 
 
 ## Badges & Formatting
