@@ -11,15 +11,6 @@ hero:
     - theme: brand
       text: Download Nuvio
       link: /core-apps#applications
-    - theme: alt
-      text: Catalogs & Collections
-      link: /tools-utilities#catalogs-collections
-    - theme: alt
-      text: Add-ons & Plugins
-      link: /addons/
-    - theme: alt
-      text: Account & Setup
-      link: /tools-utilities#account-setup
 
 features:
   - icon: 📱
