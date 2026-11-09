@@ -37,6 +37,9 @@ description: Primary media aggregation and streaming clients.
 - **[Nuvio Native Legacy](https://github.com/iqui27/nuvio-native-legacy)** - Designed to deliver 60 fps UI performance on low-RAM hardware for LG webOS, Samsung Tizen, and Android TV.
 - **[Nuvio TV for Roku](https://github.com/Esmequiinn/NuvioTVSmart-Roku)** - Custom BrightScript/SceneGraph bringing Nuvio to Roku devices.
 
+### Apple TV
+- ⭐ **[Nuvio TV for tvOS](https://github.com/bobsupra/NuvioTVOS)** - tvOS client with Siri Remote gestures, subtitle autosync, and AetherEngine/MPVKit playback.
+
 ### Web Clients
 - **[NuvioStreamX](https://www.nuviostreamx.com/)**
 - **[NuvioWeb](https://nuvio.alphasquare.my.id/)** / <a href="https://github.com/alphasquare404/NuvioWeb" title="GitHub"><span class="icon-link icon-github"></span></a>
