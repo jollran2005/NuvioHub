@@ -35,9 +35,10 @@ Partially or fully paid add-ons are marked 💵
 ## Live Sports Addons
 
 - ⭐ **[NuvioSports](https://nuviosports.xyz/)**
-- **[HighFly Sports](https://sports.highfly.dev/configure)**
+- **[Sports Streams](https://sports.highfly.dev/configure)**
 - **[Nebula Sports](https://sports.nebulapro.xyz/sports)**
 - **[PenguPlay](https://pengu.uk/)**
+- **[StremVerse](https://stremverse1.alwaysdata.net)**
 - **[CNCVerse Bridge](https://cncverse.dpdns.org/configure)**
 - **[FlixNest](https://flixnest.app/flix-streams/)**
 - **[MediaFusion](https://mediafusion.elfhosted.com/configure)**
