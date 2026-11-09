@@ -67,7 +67,7 @@ Partially or fully paid add-ons are marked 💵
 
 - **[btttr](https://btttr.cc/)** - Posters with smart tags
 - **[Pictorium](https://pictorium.elfhosted.com/)** / <a href="https://github.com/Eful97/Pictorium" title="GitHub"><span class="icon-link icon-github"></span></a> - Custom posters
-- **[Posters+](https://postersplus.elfhosted.com/)** / [2](https://postersplus.slokker.cc/) / [3](https://postersplus.stremio.ru/) / <a href="https://github.com/UmbraProjects/PostersPlus" title="GitHub"><span class="icon-link icon-github"></span></a> - Custom posters
+- **[Posters+](https://postersplus.slokker.cc/)** / [2](https://postersplus.stremio.ru/) / [3](https://postersplus.elfhosted.com/) / <a href="https://github.com/UmbraProjects/PostersPlus" title="GitHub"><span class="icon-link icon-github"></span></a> - Custom posters
 - **[ExtendedRatings](https://extendedratings.com/)** / [Public Instance](https://xrdb.elfhosted.com/) - Custom posters
 - **[TopPosters](https://top-posters.com/)** - Custom posters
 - **[RatingPosterDB](https://ratingposterdb.com/)** - Custom posters 💵
