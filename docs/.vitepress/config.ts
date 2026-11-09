@@ -54,8 +54,9 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/jollran2005/NuvioHub' }
     ],
     footer: {
-      message: 'Organized community directory. No copyrighted content is hosted or indexed.',
-      copyright: 'Copyright © 2026 NuvioHub'
+      message: 'Credit to the teams behind <a href="https://nuvio.tv/">Nuvio</a> & <a href="https://fmhy.net/">FMHY</a>',
+      copyright: `© ${new Date().getFullYear()} NuvioHub` + '<br/> This site does not host any files.',
+
     }
   }
 })
