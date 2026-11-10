@@ -32,7 +32,8 @@ Partially or fully paid add-ons are marked 💵
 - **[Showbox](https://showbox.codiv.dpdns.org/configure)** - Movies / TV-Shows / [Requires FebBox Cookies](/guides/febbox-cookies.md)
 - **[acuAnime](https://acuanime.pages.dev/configure)** - Anime
 
-## Live Sports
+## Live Sports/TV
+### Live Sports
 
 - ⭐ **[NuvioSports](https://nuviosports.xyz/)**
 - **[Sports Streams](https://sports.highfly.dev/configure)**
@@ -40,8 +41,17 @@ Partially or fully paid add-ons are marked 💵
 - **[PenguPlay](https://pengu.uk/)**
 - **[StremVerse](https://stremverse1.alwaysdata.net)**
 - **[CNCVerse Bridge](https://cncverse.dpdns.org/configure)**
-- **[FlixNest](https://flixnest.app/flix-streams/)**
+- **[Flix-Streams](https://flixnest.app/flix-streams/)** 💵
 - **[MediaFusion](https://mediafusion.elfhosted.com/configure)**
+
+### Live TV
+
+- **[Ultra Max TV](https://ultramax.vip/tv.html)**
+- **[Watchio](https://watchio-addon.pages.dev/configure/)**
+- **[USA TV Next](https://github.com/yowmamasita/usa-tv-next)**
+- **[StremTV](https://stremtv.vercel.app/)**
+- **[CNCVerse Bridge](https://cncverse.dpdns.org/configure)**
+- **[Flix-Streams](https://flixnest.app/flix-streams/)** 💵
 
 ## Other Content Add-ons
 
