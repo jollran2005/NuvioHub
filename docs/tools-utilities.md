@@ -4,6 +4,8 @@ description: Catalog builders, account managers, visual formatters, stack config
 ---
 
 ::: tip Paid Tools
+Add-ons marked⚡requires a debrid service.
+
 Partially or fully paid tools are marked 💵
 :::
 
@@ -16,7 +18,7 @@ A curated catalog of companion web apps, account management utilities, homescree
 ### Custom Setup Wizards
 - ⭐ **[Xperience](https://xperience-app.com/)** / [Status](https://xperience-app.com/status) - Custom setup 💵
 - ⭐ **[Numax](https://numaxofficial.website/)** - Custom setup with addon marketplace / Collections
-- **[Duck Tools](https://duck-tools.pages.dev/)** - Custom Setup
+- ⭐ **[Duck Tools](https://duck-tools.pages.dev/)** - Custom Setup ⚡
 - **[NuvioInstant](https://nuvioinstant.3hpm.ca/)** - Custom setup with AIO-integration
 - **[UltraMax](https://ultramax.vip/)** - Custom setup
 - **[numb3rs Perfect Setup](https://numb3rs.stream/wizard/)** - Setup wizard for Stremio/Nuvio
@@ -34,6 +36,7 @@ A curated catalog of companion web apps, account management utilities, homescree
 
 ### Catalogs & Collections
 
+- ⭐ **[Community collections](https://nuvio.tv/community-collections)** - Browse community-made collections
 - ⭐ **[Kaptain's Collection](https://kaptain.stream/)**
 - **[Xperience](https://xperience-app.com/)** / [Status](https://xperience-app.com/status) 💵
 - **[Numax](https://numaxofficial.website/)**
