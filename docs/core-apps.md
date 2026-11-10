@@ -7,8 +7,8 @@ description: Primary media aggregation and streaming clients.
 
 ## Applications
 
-- ⭐ **[Nuvio](https://nuvio.tv/)** / [Downloads](https://nuvio.tv/#get) / <a href="https://github.com/NuvioMedia" title="GitHub"><span class="icon-link icon-github"></span></a> - Modern media streaming client with add-on and plugin support.
-- **[Stremio](https://www.stremio.com/)** / [Downloads](https://www.stremio.com/downloads)  / <a href="https://github.com/stremio" title="GitHub"><span class="icon-link icon-github"></span></a> - Streaming client with add-on support, predecessor to Nuvio.
+- ⭐ **[Nuvio](https://nuvio.tv/)** / [Downloads](https://nuvio.tv/#get) / <a href="https://github.com/NuvioMedia" title="GitHub"><span class="icon-link icon-github"></span></a> - Streaming client with add-on and plugin support, inspired by Stremio.
+- **[Stremio](https://www.stremio.com/)** / [Downloads](https://www.stremio.com/downloads)  / <a href="https://github.com/stremio" title="GitHub"><span class="icon-link icon-github"></span></a> - Streaming client with add-on support.
 - **[Wuplay](https://github.com/wuplayapp/wuplay-releases)** / [Downloads](https://github.com/wuplayapp/wuplay-releases) - Privacy-focused streaming app for Android TV with add-on support.
 
 ## Nuvio Forks
