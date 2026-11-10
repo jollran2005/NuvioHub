@@ -28,9 +28,10 @@ Partially or fully paid add-ons are marked 💵
 - **[HD Plavio](https://hd.plavio.site/configure)** - Movies / TV-Shows / Live TV
 - **[CNCVerse Bridge](https://cncverse.dpdns.org/configure)** - Plugin based addon. Movies / TV-Shows / Anime / Live TV
 - **[1111477](https://st.111477.xyz/)** - Movies / TV-Shows
-- **[WebStreamrMBG](https://87d6a6ef6b58-webstreamrmbg.baby-beamup.club/configure)** - Movies / TV-Shows
-- **[FlixNest](https://flixnest.app/flix-streams/)** - Movies / TV-Shows / Anime / Live TV ⚡ 💵
-- **[Sooti](https://sooti.info/configure)** - Movies / TV-Shows ⚡⚡
+- **[Showbox](https://showbox.codiv.dpdns.org/configure)** - Movies / TV-Shows / [Requires FebBox Cookies](../guides/febbox-cookies.md)
+- **[1111477](https://st.111477.xyz/)** - Movies / TV-Shows
+- **[1111477](https://st.111477.xyz/)** - Movies / TV-Shows
+- **[acuAnime](https://acuanime.pages.dev/configure)** - Anime
 
 ## Live Sports
 
