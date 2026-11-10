@@ -76,6 +76,7 @@ Partially or fully paid add-ons are marked 💵
 
 - ⭐ **[AIOMetadata](https://github.com/cedya77/aiometadata) / [Instances](https://uptime.ibbylabs.dev/aiometadata)** / <a href="https://github.com/cedya77/aiometadata" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-Source Metadata & Catalogs Addon
 - **[CouchPilot](https://couchpilot.nl/)** / <a href="https://github.com/TimonCantCode/CouchPilot" title="GitHub"><span class="icon-link icon-github"></span></a> - Metadata with AI powered recommendations
+- **[MyLists](https://mylistsaddon.com/catalogs)** - Catalog addon with metadata
 - **[Cinemeta v3](https://v3-cinemeta.strem.io/+)** - Official Stremio metadata addon
 
 ### Posters
@@ -86,6 +87,7 @@ Partially or fully paid add-ons are marked 💵
 - **[ExtendedRatings](https://extendedratings.com/)** / [Public Instance](https://xrdb.elfhosted.com/) - Custom posters
 - **[TopPosters](https://top-posters.com/)** - Custom posters
 - **[RatingPosterDB](https://ratingposterdb.com/)** - Custom posters 💵
+- **[MyLists](https://mylistsaddon.com/catalogs)** - Catalog addon with posters integration
 
 ## Subtitle Addons
 - **[Subtitles: Extended](https://popcorn-notes.lsoares.workers.dev/)** - Subtitle aggregator with extended trivia
