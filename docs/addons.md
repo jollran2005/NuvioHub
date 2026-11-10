@@ -65,6 +65,7 @@ Partially or fully paid add-ons are marked 💵
 ### Metadata
 
 - ⭐ **[AIOMetadata](https://github.com/cedya77/aiometadata) / [Instances](https://uptime.ibbylabs.dev/aiometadata)** - Multi-Source Metadata & Catalogs Addon
+- **[CouchPilot](https://couchpilot.nl/)** / <a href="https://github.com/TimonCantCode/CouchPilot" title="GitHub"><span class="icon-link icon-github"></span></a> - Metadata with AI powered recommendations
 - **[Cinemeta v3](https://v3-cinemeta.strem.io/+)** - Official Stremio metadata addon
 
 ### Posters
