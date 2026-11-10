@@ -1,4 +1,4 @@
-# NuvioHub ⚡
+# NuvioHub
 
 > The definitive open-source megathread and community directory for all things pertaining to Nuvio, add-ons, companion tools, debrid services, and setup guides.
 
