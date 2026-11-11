@@ -9,7 +9,10 @@ Add-ons marked⚡supports debrid services. Add-ons marked⚡⚡require a debrid 
 Partially or fully paid add-ons are marked 💵
 :::
 
-# Add-ons & Plugins
+# Add-ons & Plugins.
+
+## General
+- ⭐ **[Stremio Addons](https://stremio-addons.net/)** - Community-driven addon catalog
 
 ## P2P & Torrents
 - ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/) / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances)** / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-Source Addon + Debrid Aggregator ⚡
@@ -59,16 +62,19 @@ Partially or fully paid add-ons are marked 💵
 - **[StremThru Store](https://stremthru.13377001.xyz/stremio/store/configure)** - Stream from your debrid catalog ⚡⚡
 - **[YouStream](https://youstream.up.railway.app/configure)** / <a href="https://github.com/deejay189393/YouStream" title="GitHub"><span class="icon-link icon-github"></span></a> - Stream movies and tv-shows available on YouTube
 
-## Plugin Directories
+## Plugins
 
 - ⭐ **[Nuvio Plugin Library](https://nuvio-plugin-library.vercel.app/)**
 - **[NuvioPlugin](https://nuvioplugin.com/)**
 
-## Catalog & List Addons
-
-- **[MyLists](https://mylistsaddon.com/catalogs)** - Personal list catalog addon
-- **[TMDB Discover+](https://tmdb-discover-plus.elfhosted.com/)** - TMDB-powered catalog addon
-- **[StremList](https://stremlist.com/)** - Import your IMDb watchlists
+## Subtitle Addons
+- **[Subtitles: Extended](https://popcorn-notes.lsoares.workers.dev/)** - Subtitle aggregator with extended trivia
+- **[RosettaSubs](https://rosettasubs.onrender.com/configure)** - Subtitle aggregator
+- **[SubSense](https://subsense.nepiraw.com/)** - Subtitle aggregator
+- **[SubMaker](https://submaker.elfhosted.com/)** / <a href="https://github.com/xtremexq/StremioSubMaker" title="GitHub"><span class="icon-link icon-github"></span></a> - Subtitle aggregator with AI translations
+- **[OpenSubtitles v3](https://opensubtitles-v3.strem.io/)** - Official OpenSubtitles v3 addon.
+- **[OpenSubtitles v3 Pro](https://opensubtitlesv3-pro.dexter21767.com/configure/)** - Enhanced OpenSubtitles v3 addon with additional options
+- **[Stremio Community Subtitles](https://stremio-community-subtitles.top/)** / <a href="https://github.com/skoruppa/stremio-community-subtitles" title="GitHub"><span class="icon-link icon-github"></span></a> - Community made subtitle database
 
 ## Metadata & Posters
 
@@ -89,12 +95,9 @@ Partially or fully paid add-ons are marked 💵
 - **[RatingPosterDB](https://ratingposterdb.com/)** - Custom posters 💵
 - **[MyLists](https://mylistsaddon.com/catalogs)** - Catalog addon with posters integration
 
-## Subtitle Addons
-- **[Subtitles: Extended](https://popcorn-notes.lsoares.workers.dev/)** - Subtitle aggregator with extended trivia
-- **[RosettaSubs](https://rosettasubs.onrender.com/configure)** - Subtitle aggregator
-- **[SubSense](https://subsense.nepiraw.com/)** - Subtitle aggregator
-- **[SubMaker](https://submaker.elfhosted.com/)** / <a href="https://github.com/xtremexq/StremioSubMaker" title="GitHub"><span class="icon-link icon-github"></span></a> - Subtitle aggregator with AI translations
-- **[OpenSubtitles v3](https://opensubtitles-v3.strem.io/)** - Official OpenSubtitles v3 addon.
-- **[OpenSubtitles v3 Pro](https://opensubtitlesv3-pro.dexter21767.com/configure/)** - Enhanced OpenSubtitles v3 addon with additional options
-- **[Stremio Community Subtitles](https://stremio-community-subtitles.top/)** / <a href="https://github.com/skoruppa/stremio-community-subtitles" title="GitHub"><span class="icon-link icon-github"></span></a> - Community made subtitle database
+## Catalog & List Addons
+
+- **[MyLists](https://mylistsaddon.com/catalogs)** - Personal list catalog addon
+- **[TMDB Discover+](https://tmdb-discover-plus.elfhosted.com/)** - TMDB-powered catalog addon
+- **[StremList](https://stremlist.com/)** - Import your IMDb watchlists
 
