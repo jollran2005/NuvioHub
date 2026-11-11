@@ -14,9 +14,10 @@ Partially or fully paid add-ons are marked 💵
 - ⭐ **[Nuvio Plugin Library](https://nuvio-plugin-library.vercel.app/)** - Community-driven plugin library
 - **[Nuvio Plugin](https://nuvioplugin.com/)** - Community-driven plugin library
 
-## Aggregators & Management
+## Aggregators
 - ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/) / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances)** / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-source aggregator to merge, filter, & format multiple scrapers into one add-on ⚡
 - ⭐ **[AIOMetadata](https://github.com/cedya77/aiometadata) / [Instances](https://uptime.ibbylabs.dev/aiometadata)** / <a href="https://github.com/cedya77/aiometadata" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-source metadata & catalogs add-on
+- **[Tamtaro's Complete Setup](https://github.com/Tam-Taro/SEL-Filtering-and-Sorting)** - Complete SEL setup for AIOStreams
 
 ## P2P & Torrents
 - ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/) / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances)** / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-Source Add-on Aggregator ⚡

@@ -33,6 +33,9 @@ A curated catalog of companion web apps, account management utilities, homescree
 - **[Kaptain's Tools](https://kaptain.stream/studio)** - Homescreen and profile studio
 - **[Xperience](https://xperience-app.com/)** / [Status](https://xperience-app.com/status) - Add-on manager 💵
 
+### Stremio Specific Managers
+- **[Stremio Addon Manager](https://stremio-addon-manager-2-0.pages.dev/)** - Manage your Stremio add-ons
+- **[Cinebye](https://cinebye.elfhosted.com/)** - Remove Cinemeta
 
 ### Catalogs & Collections
 
