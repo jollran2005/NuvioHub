@@ -54,7 +54,7 @@ A curated catalog of companion web apps, account management utilities, homescree
 - ⭐ **[FR-Badges](https://github.com/farizmohd70/FR-Badges)** - Modern badge pack
 - **[BetterFormatter](https://9mousaa.github.io/BetterFormatter/)** - Custom fusion badges
 - **[CrispyFormat](https://format.crispytools.xyz/)** - Custom stream list formats
-- **[V3 AIOStreams Formatter](https://github.com/stupididiots999/V3-AIOStreams-Formatter)**
+- **[V3 AIOStreams Formatter](https://github.com/stupididiots999/V3-AIOStreams-Formatter)** - Modern stream list formatter
 
 
 ## Device Specific Tools
