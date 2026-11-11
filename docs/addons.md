@@ -10,9 +10,9 @@ Partially or fully paid add-ons are marked 💵
 :::
 
 # Add-ons & Plugins.
-
-## General
 - ⭐ **[Stremio Addons](https://stremio-addons.net/)** - Community-driven addon catalog
+- ⭐ **[Nuvio Plugin Library](https://nuvio-plugin-library.vercel.app/)** - Community-driven plugin library
+- **[Nuvio Plugin](https://nuvioplugin.com/)** - Community-driven plugin library
 
 ## P2P & Torrents
 - ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/) / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances)** / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-Source Addon + Debrid Aggregator ⚡
@@ -61,11 +61,6 @@ Partially or fully paid add-ons are marked 💵
 - **[Lanio](https://github.com/Legume0704/lanio)** - Stream media available on your LAN
 - **[StremThru Store](https://stremthru.13377001.xyz/stremio/store/configure)** - Stream from your debrid catalog ⚡⚡
 - **[YouStream](https://youstream.up.railway.app/configure)** / <a href="https://github.com/deejay189393/YouStream" title="GitHub"><span class="icon-link icon-github"></span></a> - Stream movies and tv-shows available on YouTube
-
-## Plugins
-
-- ⭐ **[Nuvio Plugin Library](https://nuvio-plugin-library.vercel.app/)**
-- **[NuvioPlugin](https://nuvioplugin.com/)**
 
 ## Subtitle Addons
 - **[Subtitles: Extended](https://popcorn-notes.lsoares.workers.dev/)** - Subtitle aggregator with extended trivia
