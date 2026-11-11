@@ -14,8 +14,12 @@ Partially or fully paid add-ons are marked 💵
 - ⭐ **[Nuvio Plugin Library](https://nuvio-plugin-library.vercel.app/)** - Community-driven plugin library
 - **[Nuvio Plugin](https://nuvioplugin.com/)** - Community-driven plugin library
 
+## Aggregators & Management
+- ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/) / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances)** / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-source aggregator to merge, filter, & format multiple scrapers into one add-on ⚡
+- ⭐ **[AIOMetadata](https://github.com/cedya77/aiometadata) / [Instances](https://uptime.ibbylabs.dev/aiometadata)** / <a href="https://github.com/cedya77/aiometadata" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-source metadata & catalogs add-on
+
 ## P2P & Torrents
-- ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/) / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances)** / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-Source Addon + Debrid Aggregator ⚡
+- ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/) / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances)** / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-Source Add-on Aggregator ⚡
 - **[Torrentio](https://torrentio.strem.fun)** - Torrent / Debrid ⚡
 - **[Comet](https://comet.feels.legal/configure), [2](https://comet.stremio.ru/configure), [3](https://comet.forthewizards.uk/configure), [4](https://cometfortheweebs.midnightignite.me/configure), [5](https://comet.elfhosted.com/configure)** / <a href="https://github.com/g0ldyy/comet" title="GitHub"><span class="icon-link icon-github"></span></a> - Torrent / Debrid / Usenet ⚡
 - **[MediaFusion](https://mediafusionfortheweebs.midnightignite.me/app/configure), [2](https://mediafusion.forthewizards.uk/app/configure), [3](https://mediafusion.elfhosted.com/app/configure)** / <a href="https://github.com/mhdzumair/MediaFusion" title="GitHub"><span class="icon-link icon-github"></span></a> - Torrent / Debrid / Live TV & Sports ⚡
@@ -26,6 +30,7 @@ Partially or fully paid add-ons are marked 💵
 
 ## HTTP Streams
 
+- ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/) / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances)** / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-Source Add-on Aggregator ⚡
 - ⭐ **[PenguPlay](https://pengu.uk/)** - Movies / TV-Shows / Anime / Live TV
 - **[HDHub](https://hdhub.thevolecitor.qzz.io/)** - Movies / TV-Shows ⚡
 - **[HD Plavio](https://hd.plavio.site/configure)** - Movies / TV-Shows / Live TV
