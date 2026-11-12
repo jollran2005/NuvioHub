@@ -24,6 +24,7 @@ description: Primary media aggregation and streaming clients.
 
 - ⭐ **[Nuvio Arc](https://github.com/ysosrs123/NuvioTV-Fork)** - Adds local seek thumbnails, TV remote mapping, lossless bitstream audio, and native Dolby Vision.
 - ⭐ **[NuvioTV Reshaped](https://github.com/DavidVamaiotu/NuvioTV-Reshaped)** - Adds subtitle AutoSync, seek previews, custom fonts, pill navigation, and Live TV.
+- **[Nuvio Native Legacy](https://github.com/iqui27/nuvio-native-legacy)** - 60 fps UI performance on low-RAM hardware for Android TV, webOS, & Tizen.
 - **[Nuvio TV Launcher](https://github.com/Br0ck25/NuvioTVLauncher)** - Integrates Nuvio with an Android TV launcher replacement and Live TV support.
 - **[Nuvio + IPTV](https://github.com/homelessbrian/NuvioPlusIPTV)** - Integrates TiviMate-style IPTV, a Sports hub with automatic channel matching, catch-up, recordings, and provider VOD into Nuvio.
 - **[NuvioTV-Lite](https://github.com/hackerslash/NuvioTV-Lite)** - Performance-focused fork tuned for low ram boxes: smaller APK, capped playback buffers, in-app OTA updates.
@@ -36,7 +37,7 @@ description: Primary media aggregation and streaming clients.
 
 ### Smart TV (Samsung Tizen, LG webOS)
 
-- **[Nuvio Native Legacy](https://github.com/iqui27/nuvio-native-legacy)** - Designed to deliver 60 fps UI performance on low-RAM hardware for LG webOS, Samsung Tizen, and Android TV.
+- **[Nuvio Native Legacy](https://github.com/iqui27/nuvio-native-legacy)** - Designed to deliver 60 fps UI performance on low-RAM hardware for webOS, Tizen, and Android TV.
 - **[Nuvio TV for Roku](https://github.com/Esmequiinn/NuvioTVSmart-Roku)** - Custom BrightScript/SceneGraph bringing Nuvio to Roku devices.
 
 ### Apple TV
