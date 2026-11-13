@@ -4,7 +4,7 @@ A community-maintained megathread and directory for the modern streaming ecosyst
 
 Built with [VitePress](https://vitepress.dev/) and formatted using an inline, high-density listing pattern inspired by [FreeMediaHeckYeah (FMHY)](https://fmhy.net/).
 
-**Official Website:** [https://nuviohub.pages.dev](https://nuviohub.pages.dev)
+**Official Website:** [https://nuvihub.pages.dev](https://nuvihub.pages.dev)
 
 ---
 
@@ -12,7 +12,7 @@ Built with [VitePress](https://vitepress.dev/) and formatted using an inline, hi
 
 The directory is split into focused sections across `docs/`:
 
-### 1. [Apps & Forks](docs/core-apps.md)
+### 1. 📱 [Apps & Forks](docs/core-apps.md)
 Official client repositories, release downloads, and community forks:
 - **Core Apps:** Nuvio, Stremio, Wuplay.
 - **Mobile Forks (Android / iOS):** Nuvio Enhanced, Nuvio Reshaped, Nuvio One.
@@ -21,7 +21,7 @@ Official client repositories, release downloads, and community forks:
 - **Smart TV & Apple TV:** Nuvio Native Legacy (Tizen / webOS), Nuvio for Roku, Nuvio TV for tvOS.
 - **Web Clients:** Nuvio Web, NuvioStreamX, TikTak TV.
 
-### 2. [Add-ons & Plugins](docs/addons.md)
+### 2. 🧩 [Add-ons & Plugins](docs/addons.md)
 Scrapers, stream bridges, live feeds, and plugin catalogs:
 - **P2P & Debrid Scrapers:** AIOStreams, Torrentio, Comet, MediaFusion, StremThru Torz, Peerflix, Meteor, TorrentsDB.
 - **HTTP Stream Add-ons:** PenguPlay, HDHub, HD Plavio, CNCVerse Bridge, 1111477, FlixNest, Sooti.
@@ -29,24 +29,24 @@ Scrapers, stream bridges, live feeds, and plugin catalogs:
 - **Catalogs & Subtitles:** CyberFlix, Trakt, Anime Kitsu, OpenSubtitles v3, SubDL.
 - **Plugin Directories:** Nuvio Plugin Library, NuvioPlugin.
 
-### 3. [Tools & Utilities](docs/tools-utilities.md)
+### 3. 🛠️ [Tools & Utilities](docs/tools-utilities.md)
 Configuration assistants, sync tools, and UI formatters:
 - **Setup Wizards:** Xperience, Numax, NuvioInstant, UltraMax, numb3rs Perfect Setup, Stremx Bootstrapper.
 - **Account & Profile Management:** AIOManager, NuvioSync, NuvioAccountCloner, Kaptain's Studio.
 - **Collections & Catalogs:** Kaptain's Collection, BingeCat, Nuvio Collections Editor, Stremio LabAR.
 - **Formatters & Badges:** Badger, BetterFormatter, CrispyFormat.
 
-### 4. [Debrid & Usenet](docs/debrid-services.md)
+### 4. ⚡ [Debrid & Usenet](docs/debrid-services.md)
 Cloud caching backbones, multihosters, and newsgroup indexers:
 - **Debrid Providers:** TorBox, Real-Debrid, Premiumize, AllDebrid, LinkSnappy, Deepbrid, put.io, Offcloud, Debrid-Link.
 - **Usenet Integration:** Overview, indexer references, and TorBox direct Usenet caching.
 
-### 5. [Community Guides](docs/guides.md)
+### 5. 📚 [Community Guides](docs/guides.md)
 - Official documentation links and wikis ([nuvio.wiki](https://nuvio.wiki/), [docs.nuvio.tv](https://nuvio.tv/docs)).
 - Comprehensive community guides (Numb3rs, Duck Guides, AIOStreams Docs).
 - Service status and uptime monitors (ibbylabs, Stremio Status, NuvioSync Status, Xperience Status).
 
-### 6. [Glossary](docs/glossary.md)
+### 6. 📖 [Glossary](docs/glossary.md)
 Clear definitions of technical terms used across the ecosystem (Debrid caching, AIO aggregators, P2P vs HTTP streaming, manifests, indexers, and video formats).
 
 ---
