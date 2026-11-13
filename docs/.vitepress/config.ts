@@ -18,7 +18,8 @@ export default defineConfig({
       {},
       `(() => {
         try {
-          if (localStorage.getItem('nuvio-amoled') === 'true') {
+          if (localStorage.getItem('nuvio-amoled') === 'true' &&
+  localStorage.getItem('vitepress-theme-appearance') !== 'light') {
             document.documentElement.classList.add('amoled');
           }
         } catch (e) {}

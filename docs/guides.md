@@ -14,7 +14,7 @@ A curated list of external, community-maintained setup guides, wikis, and uptime
 - **[Numb3rs](https://numb3rs.stream/)** - Community guide with interactive [setup wizard](tools-utilities.md#custom-setup-wizards)
 - **[Viren070's AIOStreams Docs](https://docs.aiostreams.viren070.me/getting-started/)** - Official AIOStreams documentation and guide
 - **[Duck Guides](https://duck-guides.pages.dev/)** - Step by step guides for Nuvio, AIO etc.
--**[StremThru Docs](https://docs.stremthru.13377001.xyz/)** - Official StremThru documentation
+- **[StremThru Docs](https://docs.stremthru.13377001.xyz/)** - Official StremThru documentation
 
 ## Status & Uptime Dashboards
 
