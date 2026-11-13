@@ -1,10 +1,10 @@
 # NuvioHub
 
-A community-maintained index and reference directory for the modern streaming ecosystem, centered around **Nuvio**, **Stremio**, add-ons, debrid backbones, and companion utilities.
+A community-maintained megathread and directory for the modern streaming ecosystem, centered around **Nuvio**, add-ons, debrid backbones, and companion utilities.
 
 Built with [VitePress](https://vitepress.dev/) and formatted using an inline, high-density listing pattern inspired by [FreeMediaHeckYeah (FMHY)](https://fmhy.net/).
 
-**Live Documentation:** [https://jollran2005.github.io/NuvioHub/](https://jollran2005.github.io/NuvioHub/)
+**Official Website:** [https://nuviohub.pages.dev](https://nuviohub.pages.dev)
 
 ---
 
