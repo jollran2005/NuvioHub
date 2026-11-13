@@ -18,8 +18,7 @@ export default defineConfig({
       {},
       `(() => {
         try {
-          if (localStorage.getItem('nuvio-amoled') === 'true' &&
-  localStorage.getItem('vitepress-theme-appearance') !== 'light') {
+          if (localStorage.getItem('nuvio-amoled') === 'true' && localStorage.getItem('vitepress-theme-appearance') !== 'light') {
             document.documentElement.classList.add('amoled');
           }
         } catch (e) {}
@@ -68,7 +67,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'Credit to the teams behind <a href="https://nuvio.tv/">Nuvio</a> & <a href="https://fmhy.net/">FMHY</a>',
-      copyright: `© ${new Date().getFullYear()} NuvioHub` + '<br/> This site does not host any files.',
+      copyright: `© ${new Date().getFullYear()} NuvioHub` + '<br> This site does not host any files.',
 
     }
   }

@@ -21,15 +21,12 @@ body:
       label: "Target Category"
       description: "Which section does this best belong in?"
       options:
-        - "Core Apps & Forks"
-        - "Debrid Services"
-        - "Stremio Addons"
-        - "Nuvio Addons"
-        - "CloudStream Repos & Plugins"
-        - "Metadata & Catalog Providers"
-        - "Self-Hosting / AIO Instances"
-        - "Usenet Integration"
-        - "Configuration Guides"
+        - "Apps & Forks"
+        - "Add-ons & Plugins"
+        - "Tools & Utilities"
+        - "Debrid & Usenet"
+        - "Community Guides"
+        - "Glossary"
     validations:
       required: true
   - type: input

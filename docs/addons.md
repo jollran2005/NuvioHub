@@ -4,7 +4,7 @@ description: Master catalog of community scrapers, debrid resolvers, metadata pr
 ---
 
 ::: tip Debrid dependancy
-Add-ons marked⚡supports debrid services. Add-ons marked⚡⚡require a debrid service.
+Add-ons marked⚡support debrid services. Add-ons marked⚡⚡require a debrid service.
 
 Partially or fully paid add-ons are marked 💵
 :::
@@ -50,7 +50,6 @@ Partially or fully paid add-ons are marked 💵
 - **[PenguPlay](https://pengu.uk/)**
 - **[StremVerse](https://stremverse1.alwaysdata.net)**
 - **[CNCVerse Bridge](https://cncverse.dpdns.org/configure)**
-- **[Flix-Streams](https://flixnest.app/flix-streams/)** 💵
 - **[MediaFusion](https://mediafusion.elfhosted.com/configure)**
 
 ### Live TV
@@ -60,7 +59,6 @@ Partially or fully paid add-ons are marked 💵
 - **[USA TV Next](https://github.com/yowmamasita/usa-tv-next)**
 - **[StremTV](https://stremtv.vercel.app/)**
 - **[CNCVerse Bridge](https://cncverse.dpdns.org/configure)**
-- **[Flix-Streams](https://flixnest.app/flix-streams/)** 💵
 
 ## Other Content Add-ons
 

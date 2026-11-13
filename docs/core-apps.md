@@ -15,10 +15,10 @@ description: Primary media aggregation and streaming clients.
 
 ### Mobile
 
-- ⭐ **[Nuvio Enhanced](https://github.com/luqmanfadlli/NuvioMobile-Enhanced)** - Adds Live TV, trailer autoplay, custom fonts, seek previews, and AniList/WeTrakr sync. <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/android.svg" width="14" height="14" style="filter: invert(1); display: inline; vertical-align: middle;" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/apple.svg" width="14" height="14" style="filter: invert(1); display: inline; vertical-align: middle;" />
-- ⭐ **[Nuvio Reshaped](https://github.com/DavidVamaiotu/NuvioMobile-Reshaped)** - Adds subtitle AutoSync, volume boost, seek previews and buffering, pill navigation, and Live TV. <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/android.svg" width="14" height="14" style="filter: invert(1); display: inline; vertical-align: middle;" />
-- **[Nuvio One](https://github.com/zoga2o3-ops/NuvioM-IPTV-1T)** - Integrates Nuvio, IPTV and YouTube into one app. <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/android.svg" width="14" height="14" style="filter: invert(1); display: inline; vertical-align: middle;" />
-- **[Nuvio Enhanced](https://github.com/yesnt10/NuvioMobile-Enhanced)** by yesnt10 - Hasn't been updated in a while! Focused on premium UX, release calendar, and Telegram media streaming on iOS. <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/android.svg" width="14" height="14" style="filter: invert(1); display: inline; vertical-align: middle;" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/apple.svg" width="14" height="14" style="filter: invert(1); display: inline; vertical-align: middle;" />
+- ⭐ **[Nuvio Enhanced](https://github.com/luqmanfadlli/NuvioMobile-Enhanced)** - Adds Live TV, trailer autoplay, custom fonts, seek previews, and AniList/WeTrakr sync. <span class="icon-link icon-android" title="Android"></span> <span class="icon-link icon-apple" title="iOS"></span>
+- ⭐ **[Nuvio Reshaped](https://github.com/DavidVamaiotu/NuvioMobile-Reshaped)** - Adds subtitle AutoSync, volume boost, seek previews and buffering, pill navigation, and Live TV. <span class="icon-link icon-android" title="Android"></span>
+- **[Nuvio One](https://github.com/zoga2o3-ops/NuvioM-IPTV-1T)** - Integrates Nuvio, IPTV and YouTube into one app. <span class="icon-link icon-android" title="Android"></span>
+- **[Nuvio Enhanced](https://github.com/yesnt10/NuvioMobile-Enhanced)** by yesnt10 - Hasn't been updated in a while! Focused on premium UX, release calendar, and Telegram media streaming on iOS. <span class="icon-link icon-android" title="Android"></span> <span class="icon-link icon-apple" title="iOS"></span>
 
 ### Android TV
 
@@ -31,9 +31,9 @@ description: Primary media aggregation and streaming clients.
 
 ### Desktop (Windows, macOS, Linux)
 
-- ⭐ **[Nuvio HTPC](https://github.com/UmbraProjects/NuvioDesktop)** - Built-in IPTV, smart light integration, custom MPV shaders, and OLED auto-dimming. <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/windows.svg" width="14" height="14" style="filter: invert(1); display: inline; vertical-align: middle;" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/apple.svg" width="14" height="14" style="filter: invert(1); display: inline; vertical-align: middle;" />
-- ⭐ **[Nuvio HTPC - Linux](https://github.com/iamSlokker/NuvioDesktop-Linux)** - Fork of Nuvio HTPC for Linux <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linux.svg" width="14" height="14" style="filter: invert(1); display: inline; vertical-align: middle;" />
-- **[NuvioCodeineXO Desktop](https://github.com/codeineXO/NuvioCodeineXO)** - Anime4K upscaling shaders, 60 FPS motion interpolation, anime filler detection, and customizable subtitle styling. <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/windows.svg" width="14" height="14" style="filter: invert(1); display: inline; vertical-align: middle;" />
+- ⭐ **[Nuvio HTPC](https://github.com/UmbraProjects/NuvioDesktop)** - Built-in IPTV, smart light integration, custom MPV shaders, and OLED auto-dimming. <span class="icon-link icon-windows" title="Windows"></span> <span class="icon-link icon-apple" title="macOS"></span>
+- ⭐ **[Nuvio HTPC - Linux](https://github.com/iamSlokker/NuvioDesktop-Linux)** - Fork of Nuvio HTPC for Linux <span class="icon-link icon-linux" title="Linux"></span>
+- **[NuvioCodeineXO Desktop](https://github.com/codeineXO/NuvioCodeineXO)** - Anime4K upscaling shaders, 60 FPS motion interpolation, anime filler detection, and customizable subtitle styling. <span class="icon-link icon-windows" title="Windows"></span>
 
 ### Smart TV (Samsung Tizen, LG webOS)
 

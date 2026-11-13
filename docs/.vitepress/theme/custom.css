@@ -21,6 +21,26 @@
     mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg');
 }
 
+.icon-android {
+    -webkit-mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/android.svg');
+    mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/android.svg');
+}
+
+.icon-apple {
+    -webkit-mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/apple.svg');
+    mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/apple.svg');
+}
+
+.icon-windows {
+    -webkit-mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/windows.svg');
+    mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/windows.svg');
+}
+
+.icon-linux {
+    -webkit-mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linux.svg');
+    mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linux.svg');
+}
+
 /* Prevent Hero Action Buttons from Wrapping onto a Second Line on Desktop */
 @media (min-width: 960px) {
     .VPHero .actions {
@@ -58,7 +78,15 @@ html.dark.amoled .VPNavScreen {
 .VPMenu {
     border-radius: 14px !important;
     border: 1px solid var(--vp-c-divider) !important;
+    background-color: var(--vp-c-bg-elv) !important;
     box-shadow: var(--vp-shadow-3) !important;
+}
+
+.appearance-panel,
+.social-group {
+    background-color: var(--vp-c-bg-elv);
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 10px;
 }
 
 .dark .VPMenu {
@@ -70,6 +98,12 @@ html.dark.amoled .VPMenu {
     background-color: #000000 !important;
     border: 1px solid rgba(255, 255, 255, 0.25) !important;
     box-shadow: 0 12px 36px rgba(0, 0, 0, 0.95), 0 0 0 1px rgba(255, 255, 255, 0.1) !important;
+}
+
+html.dark.amoled .appearance-panel,
+html.dark.amoled .social-group {
+    background-color: #000000;
+    border-color: rgba(255, 255, 255, 0.25);
 }
 
 html.dark.amoled .VPFeature,

@@ -4,7 +4,7 @@ description: Catalog builders, account managers, visual formatters, stack config
 ---
 
 ::: tip Paid Tools
-Add-ons marked⚡requires a debrid service.
+Tools marked⚡require a debrid service.
 
 Partially or fully paid tools are marked 💵
 :::

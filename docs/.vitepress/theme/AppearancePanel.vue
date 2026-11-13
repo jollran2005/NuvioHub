@@ -103,6 +103,7 @@ onMounted(() => {
 .appearance-panel {
   min-width: 175px;
   padding: 4px;
+  background-color: var(--vp-c-bg-elv);
 }
 
 .dropdown-header {
@@ -162,6 +163,10 @@ onMounted(() => {
 
 :root.dark.amoled .dropdown-item:hover {
   background-color: #161618;
+}
+
+:root.dark.amoled .appearance-panel {
+  background-color: #000000;
 }
 
 .check-icon {
