@@ -30,3 +30,60 @@
         flex-wrap: nowrap !important;
     }
 }
+
+
+/* ==========================================================================
+   AMOLED Mode (Pure #000000 Pitch Black Theme)
+   ========================================================================== */
+html.dark.amoled {
+    --vp-c-bg: #000000 !important;
+    --vp-c-bg-alt: #050505 !important;
+    --vp-c-bg-elv: #080808 !important;
+    --vp-c-bg-soft: #050505 !important;
+    --vp-nav-bg-color: rgba(0, 0, 0, 0.85) !important;
+    --vp-c-divider: rgba(255, 255, 255, 0.12) !important;
+    --vp-c-gutter: rgba(255, 255, 255, 0.12) !important;
+}
+
+html.dark.amoled .VPNav,
+html.dark.amoled .VPNavBar,
+html.dark.amoled .VPSidebar,
+html.dark.amoled .VPLocalNav,
+html.dark.amoled .VPFooter,
+html.dark.amoled .VPNavScreen {
+    background-color: #000000 !important;
+}
+
+/* Flyout Menu: Rounded corners and clear borders in Light, Dark, and AMOLED */
+.VPMenu {
+    border-radius: 14px !important;
+    border: 1px solid var(--vp-c-divider) !important;
+    box-shadow: var(--vp-shadow-3) !important;
+}
+
+.dark .VPMenu {
+    border: 1px solid rgba(255, 255, 255, 0.16) !important;
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.6) !important;
+}
+
+html.dark.amoled .VPMenu {
+    background-color: #000000 !important;
+    border: 1px solid rgba(255, 255, 255, 0.25) !important;
+    box-shadow: 0 12px 36px rgba(0, 0, 0, 0.95), 0 0 0 1px rgba(255, 255, 255, 0.1) !important;
+}
+
+html.dark.amoled .VPFeature,
+html.dark.amoled .custom-block,
+html.dark.amoled div[class*='language-'],
+html.dark.amoled .DocSearch-Modal {
+    background-color: #050505 !important;
+    border-color: rgba(255, 255, 255, 0.15) !important;
+}
+
+
+/* Hide default 2-state toggle switch and VitePress's default redundant extra button (now unified into AppearanceMenu) */
+.VPNavBarAppearance,
+.VPNavBarExtra,
+.VPNavScreenAppearance .VPSwitchAppearance {
+    display: none !important;
+}

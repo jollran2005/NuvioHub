@@ -11,7 +11,19 @@ export default defineConfig({
     // iOS Home Screen Icon
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
     // Android Home Screen / Web Manifest
-    ['link', { rel: 'manifest', href: '/site.webmanifest' }]
+    ['link', { rel: 'manifest', href: '/site.webmanifest' }],
+    // Synchronously apply saved AMOLED mode before render to prevent flash
+    [
+      'script',
+      {},
+      `(() => {
+        try {
+          if (localStorage.getItem('nuvio-amoled') === 'true') {
+            document.documentElement.classList.add('amoled');
+          }
+        } catch (e) {}
+      })();`
+    ]
   ],
 
   base: '/',
