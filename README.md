@@ -4,7 +4,7 @@ A community-maintained megathread and directory for the modern streaming ecosyst
 
 Built with [VitePress](https://vitepress.dev/) and formatted using an inline, high-density listing pattern inspired by [FreeMediaHeckYeah (FMHY)](https://fmhy.net/).
 
-**Official Website:** [https://nuviohub.pages.dev](https://nuvihub.pages.dev)
+**Official Website:** [https://nuviohub.pages.dev](https://nuviohub.pages.dev)
 
 ---
 
