@@ -107,11 +107,18 @@ html.dark.amoled .social-group {
 }
 
 html.dark.amoled .VPFeature,
-html.dark.amoled .custom-block,
 html.dark.amoled div[class*='language-'],
 html.dark.amoled .DocSearch-Modal {
     background-color: #050505 !important;
     border-color: rgba(255, 255, 255, 0.15) !important;
+}
+
+/* Keep translucent custom blocks visually identical to dark mode over AMOLED black. */
+html.dark.amoled {
+    --vp-custom-block-tip-bg: #262743;
+    --vp-custom-block-tip-code-bg: #262743;
+    --vp-custom-block-warning-bg: #3c331b;
+    --vp-custom-block-warning-code-bg: #3c331b;
 }
 
 
