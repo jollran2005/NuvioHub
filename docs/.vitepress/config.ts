@@ -63,7 +63,9 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/jollran2005/NuvioHub' }
+      { icon: 'github', link: 'https://github.com/jollran2005/NuvioHub' },
+      { icon: 'discord', link: 'https://discord.gg/SYACcFKN8a' },
+      { icon: 'reddit', link: 'https://www.reddit.com/r/NuvioHub/' }
     ],
     footer: {
       message: 'Credit to the teams behind <a href="https://nuvio.tv/">Nuvio</a> & <a href="https://fmhy.net/">FMHY</a>',
