@@ -17,8 +17,8 @@ description: Primary media aggregation and streaming clients.
 
 - ⭐ **[Nuvio Enhanced](https://github.com/luqmanfadlli/NuvioMobile-Enhanced)** - Adds Live TV, trailer autoplay, custom fonts, seek previews, and AniList/WeTrakr sync. <span class="icon-link icon-android" title="Android"></span> <span class="icon-link icon-apple" title="iOS"></span>
 - ⭐ **[Nuvio Reshaped](https://github.com/DavidVamaiotu/NuvioMobile-Reshaped)** - Adds subtitle AutoSync, volume boost, seek previews and buffering, pill navigation, and Live TV. <span class="icon-link icon-android" title="Android"></span>
+- **[Nuvio + IPTV Mobile](https://github.com/homelessbrian/NuvioPlusIPTV-Mobile)** - Integrates IPTV, a Sports hub with automatic channel matching, catch-up, recordings, and provider VOD.
 - **[Nuvio One](https://github.com/zoga2o3-ops/NuvioM-IPTV-1T)** - Integrates Nuvio, IPTV and YouTube into one app. <span class="icon-link icon-android" title="Android"></span>
-- **[Nuvio Enhanced](https://github.com/yesnt10/NuvioMobile-Enhanced)** by yesnt10 - Hasn't been updated in a while! Focused on premium UX, release calendar, and Telegram media streaming on iOS. <span class="icon-link icon-android" title="Android"></span> <span class="icon-link icon-apple" title="iOS"></span>
 
 ### Android TV
 
@@ -26,7 +26,7 @@ description: Primary media aggregation and streaming clients.
 - ⭐ **[NuvioTV Reshaped](https://github.com/DavidVamaiotu/NuvioTV-Reshaped)** - Adds subtitle AutoSync, seek previews, custom fonts, pill navigation, and Live TV.
 - **[Nuvio Native Legacy](https://github.com/iqui27/nuvio-native-legacy)** - 60 fps UI performance on low-RAM hardware for Android TV, webOS, & Tizen.
 - **[Nuvio TV Launcher](https://github.com/Br0ck25/NuvioTVLauncher)** - Integrates Nuvio with an Android TV launcher replacement and Live TV support.
-- **[Nuvio + IPTV](https://github.com/homelessbrian/NuvioPlusIPTV)** - Integrates TiviMate-style IPTV, a Sports hub with automatic channel matching, catch-up, recordings, and provider VOD into Nuvio.
+- **[Nuvio + IPTV](https://github.com/homelessbrian/NuvioPlusIPTV)** - Integrates IPTV, a Sports hub with automatic channel matching, catch-up, recordings, and provider VOD.
 - **[NuvioTV-Lite](https://github.com/hackerslash/NuvioTV-Lite)** - Performance-focused fork tuned for low ram boxes: smaller APK, capped playback buffers, in-app OTA updates.
 
 ### Desktop (Windows, macOS, Linux)
