@@ -4,7 +4,9 @@ A community-maintained megathread and directory for the modern streaming ecosyst
 
 Built with [VitePress](https://vitepress.dev/) and formatted using an inline, high-density listing pattern inspired by [FreeMediaHeckYeah (FMHY)](https://fmhy.net/).
 
-**Official Website:** [https://nuviohub.pages.dev](https://nuviohub.pages.dev)
+**Official Website:** [https://nuviohub.pages.dev](https://nuviohub.pages.dev)  
+**Discord:** [https://discord.gg/SYACcFKN8a](https://discord.gg/SYACcFKN8a)  
+**Reddit:** [https://www.reddit.com/r/NuvioHub/](https://www.reddit.com/r/NuvioHub/)
 
 ---
 
@@ -89,10 +91,26 @@ npm run docs:preview
 
 ## Contributing
 
-Suggestions, corrections, and new resource additions are welcome:
+NuvioHub is a community-maintained megathread that stays up to date thanks to users suggesting new tools, flagging broken links, and sharing knowledge. There are three easy ways to get involved:
 
-- To suggest a new app, add-on, setup tool, or guide, please open a [GitHub Issue](https://github.com/jollran2005/NuvioHub/issues).
-- For broken links or corrections, open an issue or submit a pull request against the relevant Markdown file in `docs/`.
+- **💬 Join the Discord:** The fastest way to reach the team and community.  
+  👉 **[Join the NuvioHub Discord](https://discord.gg/SYACcFKN8a)**
+- **🟠 Post on the Subreddit:** Post on the subreddit or reach out via modmail.  
+  👉 **[r/NuvioHub on Reddit](https://www.reddit.com/r/NuvioHub/)**
+- **🐙 Open an Issue on GitHub:** For structured resource submissions or corrections:
+  1. Go to the [NuvioHub GitHub repository](https://github.com/jollran2005/NuvioHub).
+  2. Click **Issues → New Issue**.
+  3. Select **Submit a Resource**.
+  4. Fill in the name, category, link, and a short description.  
+  👉 **[Open an issue on GitHub](https://github.com/jollran2005/NuvioHub/issues/new/choose)**
+
+### Contribution Guidelines
+
+- **Be neutral:** Descriptions should be factual and brief — no promotional language.
+- **Link to the source:** Prefer official GitHub repos or homepages over third-party mirrors.
+- **Check for duplicates:** Search the site and open issues before submitting something that may already be listed.
+- **Flag removals too:** If a listed resource goes offline or becomes abandoned, let us know via any of the channels above.
+- **No direct links to infringing content:** We do not link directly to copyright-infringing media files or torrents. Stick to official clients, public repos, or service pages.
 
 ---
 
