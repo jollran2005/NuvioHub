@@ -42,23 +42,23 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Apps & Forks', link: '/core-apps' },
-      { text: 'Add-ons & Plugins', link: '/addons' },
-      { text: 'Tools & Utilities', link: '/tools-utilities' },
-      { text: 'Debrid & Usenet', link: '/debrid-services' },
-      { text: 'Guides', link: '/guides' },
-      { text: 'Glossary', link: '/glossary' }
+      { text: 'Contribute', link: '/contribute' }
     ],
     sidebar: [
       {
-        text: 'Navigation',
         items: [
-          { text: 'Apps & Forks', link: '/core-apps' },
-          { text: 'Add-ons & Plugins', link: '/addons' },
-          { text: 'Tools & Utilities', link: '/tools-utilities' },
-          { text: 'Debrid & Usenet', link: '/debrid-services' },
-          { text: 'Community Guides', link: '/guides' },
-          { text: 'Glossary', link: '/glossary' }
+          { text: '💡 Contribute', link: '/contributing' }
+        ]
+      },
+      {
+        text: 'Wiki',
+        items: [
+          { text: '📱 Apps & Forks', link: '/core-apps' },
+          { text: '🧩 Add-ons & Plugins', link: '/addons' },
+          { text: '🛠️ Tools & Utilities', link: '/tools-utilities' },
+          { text: '⚡ Debrid & Usenet', link: '/debrid-services' },
+          { text: '📚 Community Guides', link: '/guides' },
+          { text: '📖 Glossary', link: '/glossary' }
         ]
       }
     ],

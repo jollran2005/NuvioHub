@@ -1,3 +1,63 @@
+/* ==========================================================================
+   Global font size override
+   VitePress sets font sizes in px directly on elements, so we override
+   the main content and UI components individually.
+   Adjust the values below to your preference.
+   ========================================================================== */
+
+/* Main doc content */
+.vp-doc p,
+.vp-doc li,
+.vp-doc td,
+.vp-doc th,
+.vp-doc blockquote p,
+.vp-doc summary,
+.vp-doc details {
+    font-size: 18px;
+}
+
+/* Sidebar nav links */
+.VPSidebarItem .text {
+    font-size: 16px;
+}
+
+/* Top navbar — higher specificity to override VitePress defaults */
+.VPNavBar .VPNavBarMenu .VPNavBarMenuLink,
+.VPNavBar .VPNavBarMenu .VPNavBarMenuGroup .text {
+    font-size: 16px;
+}
+
+/* Right-hand "On this page" outline sidebar */
+.VPDocAside .outline-title,
+.VPDocAside .outline-link {
+    font-size: 16px;
+}
+
+/* ==========================================================================
+   Wider content layout
+   VitePress default caps the content column at ~752px. These overrides widen
+   it to use more of the available screen, similar to FMHY.
+   ========================================================================== */
+
+/* Raise the overall layout ceiling */
+:root {
+    --vp-layout-max-width: 1600px;
+}
+
+/* Widen the inner content column on large screens */
+@media (min-width: 1280px) {
+    .VPDoc .content {
+        max-width: 900px;
+    }
+}
+
+/* On very wide screens, give even more room */
+@media (min-width: 1440px) {
+    .VPDoc .content {
+        max-width: 1100px;
+    }
+}
+
 /* Make simple-icons SVG masks match the link text color */
 .icon-link {
     display: inline-block;

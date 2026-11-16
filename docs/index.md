@@ -11,6 +11,9 @@ hero:
     - theme: brand
       text: Download Nuvio
       link: /core-apps#applications
+    - theme: alt
+      text: Contribute
+      link: /contribute
 
 features:
   - icon: 📱
