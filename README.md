@@ -93,11 +93,11 @@ npm run docs:preview
 
 NuvioHub is a community-maintained megathread that stays up to date thanks to users suggesting new tools, flagging broken links, and sharing knowledge. There are three easy ways to get involved:
 
-- **💬 Join the Discord:** The fastest way to reach the team and community.  
+- **Join the Discord:** The fastest way to reach the team and community.  
   👉 **[Join the NuvioHub Discord](https://discord.gg/SYACcFKN8a)**
-- **🟠 Post on the Subreddit:** Post on the subreddit or reach out via modmail.  
+- **Post on the Subreddit:** Post on the subreddit or reach out via modmail.  
   👉 **[r/NuvioHub on Reddit](https://www.reddit.com/r/NuvioHub/)**
-- **🐙 Open an Issue on GitHub:** For structured resource submissions or corrections:
+- **Open an Issue on GitHub:** For structured resource submissions or corrections:
   1. Go to the [NuvioHub GitHub repository](https://github.com/jollran2005/NuvioHub).
   2. Click **Issues → New Issue**.
   3. Select **Submit a Resource**.
