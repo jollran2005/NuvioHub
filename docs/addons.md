@@ -12,7 +12,6 @@ Partially or fully paid add-ons are marked 💵
 # Add-ons & Plugins.
 - ⭐ **[Stremio Addons](https://stremio-addons.net/)** - Community-driven addon catalog
 - ⭐ **[Nuvio Plugin Library](https://nuvio-plugin-library.vercel.app/)** - Community-driven plugin library
-- **[Nuvio Plugin](https://nuvioplugin.com/)** - Community-driven plugin library
 
 ## Aggregators
 - ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/) / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances)** / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-source aggregator to merge, filter, & format multiple scrapers into one add-on ⚡
