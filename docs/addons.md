@@ -46,7 +46,6 @@ Partially or fully paid add-ons are marked 💵
 
 - ⭐ **[NuvioSports](https://nuviosports.xyz/)**
 - **[Sports Streams](https://sports.highfly.dev/configure)**
-- **[Nebula Sports](https://sports.nebulapro.xyz/sports)**
 - **[PenguPlay](https://pengu.uk/)**
 - **[StremVerse](https://stremverse1.alwaysdata.net)**
 - **[CNCVerse Bridge](https://cncverse.dpdns.org/configure)**
