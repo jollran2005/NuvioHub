@@ -38,6 +38,7 @@ Partially or fully paid add-ons are marked 💵
 - **[1111477](https://st.111477.xyz/)** - Movies / TV-Shows
 - **[FebBox Addon](https://febbox-addon.onrender.com/)** - Movies / TV-Shows / [Requires FebBox Cookies](/guides/febbox-cookies.md)
 - **[Showbox](https://showbox.codiv.dpdns.org/configure)** - Movies / TV-Shows / [Requires FebBox Cookies](/guides/febbox-cookies.md)
+- **[Internet Archive](https://archive-addon.onrender.com/)** - Finds media from Internet Archive
 - **[acuAnime](https://acuanime.pages.dev/configure)** - Anime
 
 ## Live Sports/TV
