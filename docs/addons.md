@@ -54,7 +54,6 @@ Partially or fully paid add-ons are marked 💵
 ### Live TV
 
 - **[Ultra Max TV](https://ultramax.vip/tv.html)**
-- **[Watchio](https://watchio-addon.pages.dev/configure/)**
 - **[USA TV Next](https://github.com/yowmamasita/usa-tv-next)**
 - **[StremTV](https://stremtv.vercel.app/)**
 - **[CNCVerse Bridge](https://cncverse.dpdns.org/configure)**

@@ -14,6 +14,8 @@ If you have stumbled upon this page, these resources have been removed from the 
 
 - **[Nebula Sports](https://sports.nebulapro.xyz/sports)**
 
+- **[Watchio](https://watchio-addon.pages.dev/configure/)**
+
 - **[Nuvio Plugin](https://nuvioplugin.com/)** - Community-driven plugin library
 
 # Apps & Forks
