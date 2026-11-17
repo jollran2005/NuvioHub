@@ -101,6 +101,11 @@
     mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linux.svg');
 }
 
+.icon-tv {
+    -webkit-mask-image: url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/tv.svg');
+    mask-image: url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/tv.svg');
+}
+
 /* Prevent Hero Action Buttons from Wrapping onto a Second Line on Desktop */
 @media (min-width: 960px) {
     .VPHero .actions {
