@@ -12,6 +12,8 @@ If you have stumbled upon this page, these resources have been removed from the 
 - **[FlixNest](https://flixnest.app/flix-streams/)** - Movies / TV-Shows / Anime / Live TV ⚡ 💵
 - **[Sooti](https://sooti.info/configure)** - Movies / TV-Shows ⚡⚡
 
+- **[Nebula Sports](https://sports.nebulapro.xyz/sports)**
+
 # Apps & Forks
 ## Mobile
 - **[Nuvio Enhanced](https://github.com/yesnt10/NuvioMobile-Enhanced)** by yesnt10 - Hasn't been updated in a while! Focused on premium UX, release calendar, and Telegram media streaming on iOS. <span class="icon-link icon-android" title="Android"></span> <span class="icon-link icon-apple" title="iOS"></span>
