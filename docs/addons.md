@@ -21,11 +21,11 @@ Partially or fully paid add-ons are marked 💵
 ## P2P & Torrents
 - ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/) / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances)** / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-Source Add-on Aggregator ⚡
 - **[Torrentio](https://torrentio.strem.fun)** - Torrent / Debrid ⚡
+- **[Meteor](https://meteorfortheweebs.midnightignite.me/stremio/configure)** - Torrent / Debrid ⚡
+- **[Peerflix](https://config.peerflix.mov/)** - Torrent / Debrid ⚡
 - **[Comet](https://comet.feels.legal/configure), [2](https://comet.stremio.ru/configure), [3](https://comet.forthewizards.uk/configure), [4](https://cometfortheweebs.midnightignite.me/configure), [5](https://comet.elfhosted.com/configure)** / <a href="https://github.com/g0ldyy/comet" title="GitHub"><span class="icon-link icon-github"></span></a> - Torrent / Debrid / Usenet ⚡
 - **[MediaFusion](https://mediafusionfortheweebs.midnightignite.me/app/configure), [2](https://mediafusion.forthewizards.uk/app/configure), [3](https://mediafusion.elfhosted.com/app/configure)** / <a href="https://github.com/mhdzumair/MediaFusion" title="GitHub"><span class="icon-link icon-github"></span></a> - Torrent / Debrid / Live TV & Sports ⚡
 - **[StremThru Torz](https://stremthru.13377001.xyz/stremio/torz/configure), [2](https://stremthrufortheweebs.midnightignite.me/stremio/torz/configure), [3](https://stremthru.fortheweak.cloud/stremio/torz/configure), [4](https://stremthru.elfhosted.com/stremio/torz/configure)** - Torrent / Debrid ⚡
-- **[Peerflix](https://config.peerflix.mov/)** - Torrent / Debrid ⚡
-- **[Meteor](https://meteorfortheweebs.midnightignite.me/stremio/configure)** - Torrent / Debrid ⚡
 - **[TorrentsDB](https://torrentsdb.com/)** - Torrent / Debrid ⚡
 
 ## HTTP Streams
