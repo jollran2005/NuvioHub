@@ -18,7 +18,7 @@ description: Primary media aggregation and streaming clients.
 
 - ⭐ **[Nuvio Enhanced](https://github.com/luqmanfadlli/NuvioMobile-Enhanced)** - Adds Live TV, trailer autoplay, custom fonts, seek previews, and AniList/WeTrakr sync. <span class="icon-link icon-android" title="Android"></span> <span class="icon-link icon-apple" title="iOS"></span>
 - ⭐ **[Nuvio Reshaped](https://github.com/DavidVamaiotu/NuvioMobile-Reshaped)** - Adds subtitle AutoSync, volume boost, seek previews and buffering, pill navigation, and Live TV. <span class="icon-link icon-android" title="Android"></span>
-- **[Nuvio + IPTV Mobile](https://github.com/homelessbrian/NuvioPlusIPTV-Mobile)** - Integrates IPTV, a Sports hub with automatic channel matching, catch-up, recordings, and provider VOD.
+- **[Nuvio + IPTV Mobile](https://github.com/homelessbrian/NuvioPlusIPTV-Mobile)** - Integrates IPTV, a Sports hub with automatic channel matching, catch-up, recordings, and provider VOD. <span class="icon-link icon-android" title="Android"></span>
 - **[Nuvio One](https://github.com/zoga2o3-ops/NuvioM-IPTV-1T)** - Integrates Nuvio, IPTV and YouTube into one app. <span class="icon-link icon-android" title="Android"></span>
 
 ### Android TV
