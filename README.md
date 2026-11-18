@@ -117,4 +117,3 @@ NuvioHub is a community-maintained megathread that stays up to date thanks to us
 ## Disclaimer
 
 NuvioHub does not host, store, index, or distribute any media files, torrent files, streams, or copyrighted content. All listings link strictly to official open-source repositories, public add-on configurators, community wikis, and legitimate service provider homepages.
-
