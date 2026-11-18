@@ -44,6 +44,7 @@ A curated catalog of companion web apps, account management utilities, homescree
 - **[Xperience](https://xperience-app.com/)** / [Status](https://xperience-app.com/status) 💵
 - **[Numax](https://numaxofficial.website/)**
 - **[BingeCat](https://binge-cat.vercel.app/)** - AI-powered collections and recommendations.
+- **[The Kollection](https://kollection.tv/)** - Setup custom collection with AIOMetadata & BingeCat
 - **[Nuvio Collections Editor](https://yaarpatandaraa.github.io/nuvio-collections-editor/)** - Web-based collections editor
 - **Stremio LabAR [Catalogs](https://catalogs.stremiolabar.com/) / [Collections](https://collections.stremiolabar.com/)** - Catalog and collections curator (Arabic)
 - **[NuvioAccountCloner](https://nuvio-account-cloner.vercel.app/collections)** - Collections buidler
