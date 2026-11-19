@@ -7,6 +7,7 @@
 
   [![Website](https://img.shields.io/badge/website-nuviohub.pages.dev-0ea5e9?style=flat-square&logo=google-chrome&logoColor=white)](https://nuviohub.pages.dev)
   [![Join the NuvioHub Discord server](https://discord.com/api/guilds/1569380947017601175/widget.png?style=shield)](https://discord.gg/SYACcFKN8a)
+  [![NuvioHub subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/NuvioHub.svg?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/r/NuvioHub/)
 
   <p>
     NuvioHub brings together Nuvio apps, add-ons, debrid services, utilities,
