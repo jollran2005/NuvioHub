@@ -36,7 +36,7 @@
 /* Bold links and resources */
 .vp-doc strong,
 .vp-doc strong a,
-.vp-doc strong > a,
+.vp-doc strong>a,
 .vp-doc a strong {
     font-weight: 700 !important;
 }
@@ -210,4 +210,50 @@ html.dark.amoled {
 .VPNavBarExtra,
 .VPNavScreenAppearance .VPSwitchAppearance {
     display: none !important;
+}
+
+/* ==========================================================================
+   Responsive Top Navigation & Search Bar for Laptops / Medium Viewports
+   VitePress default hides the full search bar and social links below 1280px.
+   Lower this threshold to 768px/960px so laptops have expanded search & social.
+   ========================================================================== */
+
+/* Show the expanded Search button on tablets & laptops (>= 768px) */
+@media (min-width: 768px) {
+    .DocSearch-Button {
+        justify-content: flex-start !important;
+        border: 1px solid var(--vp-c-divider) !important;
+        border-radius: 8px !important;
+        padding: 0 10px 0 12px !important;
+        width: 100% !important;
+        min-width: 180px !important;
+        max-width: 260px !important;
+        height: 40px !important;
+        background-color: var(--vp-c-bg-alt) !important;
+    }
+
+    .DocSearch-Button .DocSearch-Search-Icon {
+        top: 1px !important;
+        margin-right: 8px !important;
+        width: 14px !important;
+        height: 14px !important;
+        color: var(--vp-c-text-2) !important;
+    }
+
+    .DocSearch-Button .DocSearch-Button-Placeholder {
+        display: inline-block !important;
+    }
+
+    .DocSearch-Button .DocSearch-Button-Keys {
+        display: flex !important;
+        align-items: center !important;
+    }
+}
+
+/* Show top social links on screens >= 960px (laptop/small desktop) instead of requiring 1280px */
+@media (min-width: 960px) {
+    .VPNavBarSocialLinks {
+        display: flex !important;
+        align-items: center !important;
+    }
 }

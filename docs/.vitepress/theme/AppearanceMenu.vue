@@ -104,7 +104,7 @@ onUnmounted(() => {
   padding: 4px 12px 6px;
 }
 
-@media (min-width: 1280px) {
+@media (min-width: 960px) {
   .social-group {
     display: none;
   }
