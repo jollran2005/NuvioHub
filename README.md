@@ -84,9 +84,7 @@ When contributing, please:
 
 ## Disclaimer
 
-NuvioHub does not host, store, index, or distribute media files, torrent files,
-streams, or copyrighted content. Listings point to public repositories,
-documentation, community projects, and legitimate service-provider websites.
+NuvioHub does not host, store, index, or distribute any media files, torrent files, streams, or copyrighted content. All listings link strictly to official open-source repositories, public add-on configurators, community wikis, and legitimate service provider homepages.
 
 ## Links
 
