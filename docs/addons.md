@@ -95,6 +95,7 @@ Partially or fully paid add-ons are marked 💵
 ## Catalog & List Addons
 
 - **[MyLists](https://mylistsaddon.com/catalogs)** - Personal list catalog addon
+- **[Reciperr](https://reciperr.app/)** - Lists that learn from your ratings
 - **[TMDB Discover+](https://tmdb-discover-plus.elfhosted.com/)** - TMDB-powered catalog addon
 - **[StremList](https://stremlist.com/)** - Import your IMDb watchlists
 
