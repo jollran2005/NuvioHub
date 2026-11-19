@@ -97,6 +97,5 @@ NuvioHub does not host, store, index, or distribute any media files, torrent fil
 ## Support NuvioHub
 
 <div align="center">
-  <script type="text/javascript" src="https://storage.ko-fi.com/cdn/widget/Widget_2.js"></script>
-  <script type="text/javascript">kofiwidget2.init('Support NuvioHub', '#72a4f2', 'X3B72AVWP8');kofiwidget2.draw();</script>
+  [![Support NuvioHub on Ko-fi](https://storage.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/jollran)
 </div>
