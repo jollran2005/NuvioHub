@@ -1,120 +1,96 @@
-# NuvioHub
+<div align="center">
+  <img src="docs/public/hero-logo.png" alt="NuvioHub logo" width="220">
 
-A community-maintained megathread and directory for the modern streaming ecosystem, centered around **Nuvio**, add-ons, debrid backbones, and companion utilities.
+  # NuvioHub
 
-Built with [VitePress](https://vitepress.dev/) and formatted using an inline, high-density listing pattern inspired by [FreeMediaHeckYeah (FMHY)](https://fmhy.net/).
+  **A curated directory for the modern streaming ecosystem**
 
-**Official Website:** [https://nuviohub.pages.dev](https://nuviohub.pages.dev)  
-**Discord:** [https://discord.gg/SYACcFKN8a](https://discord.gg/SYACcFKN8a)  
-**Reddit:** [https://www.reddit.com/r/NuvioHub/](https://www.reddit.com/r/NuvioHub/)
+  [![Website](https://img.shields.io/badge/website-nuviohub.pages.dev-0ea5e9?style=flat-square&logo=google-chrome&logoColor=white)](https://nuviohub.pages.dev)
 
----
+  <p>
+    NuvioHub brings together Nuvio apps, add-ons, debrid services, utilities,
+    guides, and community resources in one easy-to-navigate hub.
+  </p>
 
-## What NuvioHub Covers
-
-The directory is split into focused sections across `docs/`:
-
-### 📱 [Apps & Forks](https://nuvihub.pages.dev/core-apps)
-Official client repositories, release downloads, and community forks:
-- **Core Apps:** Nuvio, Stremio, Wuplay.
-- **Mobile Forks (Android / iOS):** Nuvio Enhanced, Nuvio Reshaped, Nuvio One.
-- **Android TV & Streaming Boxes:** Nuvio Arc, NuvioTV Reshaped, Nuvio Native Legacy, Nuvio + IPTV, NuvioTV-Lite.
-- **Desktop (Windows / macOS / Linux):** Nuvio HTPC, Nuvio HTPC Linux, NuvioCodeineXO.
-- **Smart TV & Apple TV:** Nuvio Native Legacy (Tizen / webOS), Nuvio for Roku, Nuvio TV for tvOS.
-- **Web Clients:** Nuvio Web, NuvioStreamX, TikTak TV.
-
-### 🧩 [Add-ons & Plugins](https://nuvihub.pages.dev/addons)
-Scrapers, stream bridges, live feeds, and plugin catalogs:
-- **P2P & Debrid Scrapers:** AIOStreams, Torrentio, Comet, MediaFusion, StremThru Torz, Peerflix, Meteor, TorrentsDB.
-- **HTTP Stream Add-ons:** PenguPlay, HDHub, HD Plavio, CNCVerse Bridge, 1111477, FlixNest, Sooti.
-- **Live Sports & TV:** NuvioSports, HighFly Sports, Nebula Sports, MediaFusion.
-- **Catalogs & Subtitles:** CyberFlix, Trakt, Anime Kitsu, OpenSubtitles v3, SubDL.
-- **Plugin Directories:** Nuvio Plugin Library, NuvioPlugin.
-
-### 🛠️ [Tools & Utilities](https://nuvihub.pages.dev/tools-utilities)
-Configuration assistants, sync tools, and UI formatters:
-- **Setup Wizards:** Xperience, Numax, NuvioInstant, UltraMax, numb3rs Perfect Setup, Stremx Bootstrapper.
-- **Account & Profile Management:** AIOManager, NuvioSync, NuvioAccountCloner, Kaptain's Studio.
-- **Collections & Catalogs:** Kaptain's Collection, BingeCat, Nuvio Collections Editor, Stremio LabAR.
-- **Formatters & Badges:** Badger, BetterFormatter, CrispyFormat.
-
-### ⚡ [Debrid & Usenet](https://nuvihub.pages.dev/debrid-services)
-Cloud caching backbones, multihosters, and newsgroup indexers:
-- **Debrid Providers:** TorBox, Real-Debrid, Premiumize, AllDebrid, LinkSnappy, Deepbrid, put.io, Offcloud, Debrid-Link.
-- **Usenet Integration:** Overview, indexer references, and TorBox direct Usenet caching.
-
-### 📚 [Community Guides](https://nuvihub.pages.dev/guides)
-- Official documentation links and wikis ([nuvio.wiki](https://nuvio.wiki/), [docs.nuvio.tv](https://nuvio.tv/docs)).
-- Comprehensive community guides (Numb3rs, Duck Guides, AIOStreams Docs).
-- Service status and uptime monitors (ibbylabs, Stremio Status, NuvioSync Status, Xperience Status).
-
-### 📖 [Glossary](https://nuvihub.pages.dev/glossary)
-Clear definitions of technical terms used across the ecosystem (Debrid caching, AIO aggregators, P2P vs HTTP streaming, manifests, indexers, and video formats).
+  <p>
+    <a href="https://nuviohub.pages.dev">Open the website</a>
+    &nbsp;&bull;&nbsp;
+    <a href="https://github.com/jollran2005/NuvioHub/issues/new/choose">Submit a resource</a>
+    &nbsp;&bull;&nbsp;
+    <a href="https://discord.gg/SYACcFKN8a">Join the Discord</a>
+  </p>
+</div>
 
 ---
 
-## Local Deployment
+## Explore NuvioHub
 
-To run NuvioHub locally:
+| Section | Description |
+| --- | --- |
+| [Apps & Forks](https://nuviohub.pages.dev/core-apps) | Streaming clients and community forks for mobile, desktop, TV, and web. |
+| [Add-ons & Plugins](https://nuviohub.pages.dev/addons) | Add-ons for VOD, live TV, sports, subtitles, catalogs, and stream discovery. |
+| [Tools & Utilities](https://nuviohub.pages.dev/tools-utilities) | Setup assistants, account tools, collection managers, and formatters. |
+| [Debrid & Usenet](https://nuviohub.pages.dev/debrid-services) | Debrid providers, multihosters, and Usenet resources. |
+| [Community Guides](https://nuviohub.pages.dev/guides) | Official documentation, setup tutorials, and service status pages. |
+| [Glossary](https://nuviohub.pages.dev/glossary) | Clear explanations of common terms and concepts. |
 
-### Requirements
-- [Node.js](https://nodejs.org/) (v18 or higher)
+The directory is maintained as a practical, community-driven reference. Entries
+link to official repositories, public documentation, configurators, or service
+websites whenever possible.
+
+## Run locally
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) 18 or newer
 - npm
 
-### Quickstart
+### Development
 
 ```bash
-# Clone the repository
 git clone https://github.com/jollran2005/NuvioHub.git
 cd NuvioHub
-
-# Install dependencies
 npm install
-
-# Start local development server with hot reload
 npm run docs:dev
 ```
 
-The site will be available at `http://localhost:5173`.
+The development site is available at `http://localhost:5173`.
 
-### Build
+### Production build
 
 ```bash
-# Build production static output
 npm run docs:build
-
-# Preview production build locally
 npm run docs:preview
 ```
 
----
+NuvioHub is built with [VitePress](https://vitepress.dev/). The site content
+and configuration live in [`docs/`](docs/).
 
 ## Contributing
 
-NuvioHub is a community-maintained megathread that stays up to date thanks to users suggesting new tools, flagging broken links, and sharing knowledge. There are three easy ways to get involved:
+NuvioHub stays useful through community feedback. You can help by:
 
-- **Join the Discord:** The fastest way to reach the team and community.  
-  👉 **[Join the NuvioHub Discord](https://discord.gg/SYACcFKN8a)**
-- **Post on the Subreddit:** Post on the subreddit or reach out via modmail.  
-  👉 **[r/NuvioHub on Reddit](https://www.reddit.com/r/NuvioHub/)**
-- **Open an Issue on GitHub:** For structured resource submissions or corrections:
-  1. Go to the [NuvioHub GitHub repository](https://github.com/jollran2005/NuvioHub).
-  2. Click **Issues → New Issue**.
-  3. Select **Submit a Resource**.
-  4. Fill in the name, category, link, and a short description.  
-  👉 **[Open an issue on GitHub](https://github.com/jollran2005/NuvioHub/issues/new/choose)**
+- [Submitting a resource or correction on GitHub](https://github.com/jollran2005/NuvioHub/issues/new/choose)
+- [Joining the Discord community](https://discord.gg/SYACcFKN8a)
+- [Posting in the NuvioHub subreddit](https://www.reddit.com/r/NuvioHub/)
 
-### Contribution Guidelines
+When contributing, please:
 
-- **Be neutral:** Descriptions should be factual and brief — no promotional language.
-- **Link to the source:** Prefer official GitHub repos or homepages over third-party mirrors.
-- **Check for duplicates:** Search the site and open issues before submitting something that may already be listed.
-- **Flag removals too:** If a listed resource goes offline or becomes abandoned, let us know via any of the channels above.
-- **No direct links to infringing content:** We do not link directly to copyright-infringing media files or torrents. Stick to official clients, public repos, or service pages.
-
----
+- Keep descriptions factual, concise, and neutral.
+- Prefer official repositories and homepages over third-party mirrors.
+- Check the directory and open issues for duplicates.
+- Report resources that are offline, abandoned, or no longer relevant.
+- Do not submit direct links to copyrighted media, torrent files, or infringing content.
 
 ## Disclaimer
 
-NuvioHub does not host, store, index, or distribute any media files, torrent files, streams, or copyrighted content. All listings link strictly to official open-source repositories, public add-on configurators, community wikis, and legitimate service provider homepages.
+NuvioHub does not host, store, index, or distribute media files, torrent files,
+streams, or copyrighted content. Listings point to public repositories,
+documentation, community projects, and legitimate service-provider websites.
 
+## Links
+
+- **Website:** [nuviohub.pages.dev](https://nuviohub.pages.dev)
+- **Discord:** [Join the NuvioHub server](https://discord.gg/SYACcFKN8a)
+- **Reddit:** [r/NuvioHub](https://www.reddit.com/r/NuvioHub/)
+- **Repository:** [github.com/jollran2005/NuvioHub](https://github.com/jollran2005/NuvioHub)
