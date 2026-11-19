@@ -92,3 +92,14 @@ NuvioHub does not host, store, index, or distribute any media files, torrent fil
 - **Discord:** [Join the NuvioHub server](https://discord.gg/SYACcFKN8a)
 - **Reddit:** [r/NuvioHub](https://www.reddit.com/r/NuvioHub/)
 - **Repository:** [github.com/jollran2005/NuvioHub](https://github.com/jollran2005/NuvioHub)
+
+## Support NuvioHub
+
+<div align="center">
+  <a href="https://ko-fi.com/jollran" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Support NuvioHub on Ko-fi" height="36">
+  </a>
+  <a href="https://discord.gg/SYACcFKN8a" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the NuvioHub Discord server">
+  </a>
+</div>
