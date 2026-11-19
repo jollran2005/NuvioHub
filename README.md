@@ -96,6 +96,8 @@ NuvioHub does not host, store, index, or distribute any media files, torrent fil
 
 ## Support NuvioHub
 
-<div align="center">
-  [![Support NuvioHub on Ko-fi](https://storage.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/jollran)
-</div>
+<p align="center">
+  <a href="https://ko-fi.com/jollran">
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Support NuvioHub on Ko-fi">
+  </a>
+</p>
