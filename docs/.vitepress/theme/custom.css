@@ -33,6 +33,24 @@
     font-size: 16px;
 }
 
+/* Bold links and resources */
+.vp-doc strong,
+.vp-doc strong a,
+.vp-doc strong > a,
+.vp-doc a strong {
+    font-weight: 700 !important;
+}
+
+/* Normal links */
+.vp-doc a {
+    font-weight: 400;
+    text-decoration: none !important;
+}
+
+.vp-doc a:hover {
+    text-decoration: none !important;
+}
+
 /* ==========================================================================
    Wider content layout
    VitePress default caps the content column at ~752px. These overrides widen
