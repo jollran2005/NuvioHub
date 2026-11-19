@@ -6,7 +6,7 @@
   **A curated directory for the modern streaming ecosystem**
 
   [![Website](https://img.shields.io/badge/website-nuviohub.pages.dev-0ea5e9?style=flat-square&logo=google-chrome&logoColor=white)](https://nuviohub.pages.dev)
-  [![Discord](https://shieldcn.dev/discord/1569380947017601175.svg?variant=branded&size=default&logo=discord&brand=discord)](https://discord.gg/SYACcFKN8a)
+  [![Join the NuvioHub Discord server](https://discord.com/api/guilds/1569380947017601175/widget.png?style=shield)](https://discord.gg/SYACcFKN8a)
 
   <p>
     NuvioHub brings together Nuvio apps, add-ons, debrid services, utilities,
