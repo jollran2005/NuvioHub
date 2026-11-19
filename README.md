@@ -6,6 +6,7 @@
   **A curated directory for the modern streaming ecosystem**
 
   [![Website](https://img.shields.io/badge/website-nuviohub.pages.dev-0ea5e9?style=flat-square&logo=google-chrome&logoColor=white)](https://nuviohub.pages.dev)
+  [![Discord](https://shieldcn.dev/discord/1569380947017601175.svg?variant=branded&size=default&logo=discord&brand=discord)](https://discord.gg/SYACcFKN8a)
 
   <p>
     NuvioHub brings together Nuvio apps, add-ons, debrid services, utilities,
@@ -96,10 +97,6 @@ NuvioHub does not host, store, index, or distribute any media files, torrent fil
 ## Support NuvioHub
 
 <div align="center">
-  <a href="https://ko-fi.com/jollran" target="_blank">
-    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Support NuvioHub on Ko-fi" height="36">
-  </a>
-  <a href="https://discord.gg/SYACcFKN8a" target="_blank">
-    <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the NuvioHub Discord server">
-  </a>
+  <script type="text/javascript" src="https://storage.ko-fi.com/cdn/widget/Widget_2.js"></script>
+  <script type="text/javascript">kofiwidget2.init('Support NuvioHub', '#72a4f2', 'X3B72AVWP8');kofiwidget2.draw();</script>
 </div>
