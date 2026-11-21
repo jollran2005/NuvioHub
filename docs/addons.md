@@ -32,12 +32,12 @@ Partially or fully paid add-ons are marked 💵
 
 - ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/)** / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances) / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-Source Add-on Aggregator ⚡
 - ⭐ **[PenguPlay](https://pengu.uk/)** - Movies / TV-Shows / Anime / Live TV
-- [HDHub](https://hdhub.thevolecitor.qzz.io/) - Movies / TV-Shows ⚡
 - [HD Plavio](https://hd.plavio.site/configure) - Movies / TV-Shows / Live TV
-- [CNCVerse Bridge](https://cncverse.dpdns.org/configure) - Plugin based addon. Movies / TV-Shows / Anime / Live TV
 - [1111477](https://st.111477.xyz/) - Movies / TV-Shows
-- [FebBox Addon](https://febbox-addon.onrender.com/) - Movies / TV-Shows / [Requires FebBox Cookies](/guides/febbox-cookies.md)
+- [CNCVerse Bridge](https://cncverse.dpdns.org/configure) - Plugin based addon. Movies / TV-Shows / Anime / Live TV
+- [HDHub](https://hdhub.thevolecitor.qzz.io/) - Movies / TV-Shows ⚡
 - [Showbox](https://showbox.codiv.dpdns.org/configure) - Movies / TV-Shows / [Requires FebBox Cookies](/guides/febbox-cookies.md)
+- [FebBox Addon](https://febbox-addon.onrender.com/) - Movies / TV-Shows / [Requires FebBox Cookies](/guides/febbox-cookies.md)
 - [Internet Archive](https://archive-addon.onrender.com/) - Media from Internet Archive
 - [acuAnime](https://acuanime.pages.dev/configure) - Anime
 
