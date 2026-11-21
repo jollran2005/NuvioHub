@@ -49,7 +49,6 @@ Partially or fully paid add-ons are marked 💵
 - [PenguPlay](https://pengu.uk/)
 - [StremVerse](https://stremverse1.alwaysdata.net)
 - [CNCVerse Bridge](https://cncverse.dpdns.org/configure)
-- [MediaFusion](https://mediafusion.elfhosted.com/configure)
 
 ### Live TV
 
