@@ -32,12 +32,12 @@ Partially or fully paid add-ons are marked 💵
 
 - ⭐ **[AIOStreams](https://docs.aiostreams.viren070.me/)** / [Instances](https://docs.aiostreams.viren070.me/getting-started/public-instances/#instances) / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Multi-Source Add-on Aggregator ⚡
 - ⭐ **[PenguPlay](https://pengu.uk/)** - Movies / TV-Shows / Anime / Live TV
-- [HDHub](https://hdhub.thevolecitor.qzz.io/) - Movies / TV-Shows ⚡
 - [HD Plavio](https://hd.plavio.site/configure) - Movies / TV-Shows / Live TV
-- [CNCVerse Bridge](https://cncverse.dpdns.org/configure) - Plugin based addon. Movies / TV-Shows / Anime / Live TV
 - [1111477](https://st.111477.xyz/) - Movies / TV-Shows
-- [FebBox Addon](https://febbox-addon.onrender.com/) - Movies / TV-Shows / [Requires FebBox Cookies](/guides/febbox-cookies.md)
+- [CNCVerse Bridge](https://cncverse.dpdns.org/configure) - Plugin based addon. Movies / TV-Shows / Anime / Live TV
+- [HDHub](https://hdhub.thevolecitor.qzz.io/) - Movies / TV-Shows ⚡
 - [Showbox](https://showbox.codiv.dpdns.org/configure) - Movies / TV-Shows / [Requires FebBox Cookies](/guides/febbox-cookies.md)
+- [FebBox Addon](https://febbox-addon.onrender.com/) - Movies / TV-Shows / [Requires FebBox Cookies](/guides/febbox-cookies.md)
 - [Internet Archive](https://archive-addon.onrender.com/) - Media from Internet Archive
 - [acuAnime](https://acuanime.pages.dev/configure) - Anime
 
@@ -49,13 +49,12 @@ Partially or fully paid add-ons are marked 💵
 - [PenguPlay](https://pengu.uk/)
 - [StremVerse](https://stremverse1.alwaysdata.net)
 - [CNCVerse Bridge](https://cncverse.dpdns.org/configure)
-- [MediaFusion](https://mediafusion.elfhosted.com/configure)
 
 ### Live TV
 
 - [Ultra Max TV](https://ultramax.vip/tv.html)
 - [USA TV Next](https://github.com/yowmamasita/usa-tv-next)
-- [StremTV](https://stremtv.vercel.app/)
+- [StremTV](https://stremtv.vercel.app/), [IPTV hatip](https://ip-tv.hatip.dev/configure) or [IPTV szie](https://stremio-iptv-szie.onrender.com/) - Free IPTV from [iptv-org](https://github.com/iptv-org/iptv)
 - [CNCVerse Bridge](https://cncverse.dpdns.org/configure)
 - [NuvioSports](https://nuviosports.xyz/)
 
