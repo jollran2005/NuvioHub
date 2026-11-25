@@ -57,6 +57,7 @@ Partially or fully paid add-ons are marked 💵
 - [USA TV Next](https://github.com/yowmamasita/usa-tv-next)
 - [StremTV](https://stremtv.vercel.app/)
 - [CNCVerse Bridge](https://cncverse.dpdns.org/configure)
+- [NuvioSports](https://nuviosports.xyz/)
 
 ## Other Content Add-ons
 
