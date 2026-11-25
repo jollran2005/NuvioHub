@@ -11,6 +11,7 @@ description: Primary media aggregation and streaming clients.
 - [Stremio](https://www.stremio.com/) / [Downloads](https://www.stremio.com/downloads)  / <a href="https://github.com/stremio" title="GitHub"><span class="icon-link icon-github"></span></a> - Streaming client with add-on support.
 - [Wuplay](https://github.com/wuplayapp/wuplay-releases) / [Downloads](https://github.com/wuplayapp/wuplay-releases) - Privacy-focused streaming app for Android TV with add-on support.
 - [AIOStreams App](https://aiostreams.org/) / <a href="https://github.com/Viren070/AIOStreams" title="GitHub"><span class="icon-link icon-github"></span></a> - Stream directly from your AIOStreams instance.
+- [Odin](https://odinapp.dev/) / <a href="https://discord.gg/odinapp" title="Discord"><span class="icon-link icon-discord"></span></a> - Streaming app for iOS and tvOS
 
 ## Nuvio Forks
 
@@ -20,6 +21,8 @@ description: Primary media aggregation and streaming clients.
 - ⭐ **[Nuvio Reshaped](https://github.com/DavidVamaiotu/NuvioMobile-Reshaped)** - Adds subtitle AutoSync, volume boost, seek previews and buffering, pill navigation, and Live TV. <span class="icon-link icon-android" title="Android"></span>
 - [Nuvio + IPTV Mobile](https://github.com/homelessbrian/NuvioPlusIPTV-Mobile) - Integrates IPTV, a Sports hub with automatic channel matching, catch-up, recordings, and provider VOD. <span class="icon-link icon-android" title="Android"></span>
 - [Nuvio One](https://github.com/zoga2o3-ops/NuvioM-IPTV-1T) - Integrates Nuvio, IPTV and YouTube into one app. <span class="icon-link icon-android" title="Android"></span>
+- [Nuvio Pro](https://github.com/albertovinaroz/NuvioPro) - Fork of Nuvio Enhanced for iOS <span class="icon-link icon-apple" title="iOS"></span>
+
 
 ### Android TV
 

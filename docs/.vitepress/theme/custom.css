@@ -99,6 +99,11 @@
     mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg');
 }
 
+.icon-discord {
+    -webkit-mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/discord.svg');
+    mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/discord.svg');
+}
+
 .icon-android {
     -webkit-mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/android.svg');
     mask-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/android.svg');
