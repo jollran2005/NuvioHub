@@ -54,7 +54,7 @@ Partially or fully paid add-ons are marked 💵
 
 - [Ultra Max TV](https://ultramax.vip/tv.html)
 - [USA TV Next](https://github.com/yowmamasita/usa-tv-next)
-- [StremTV](https://stremtv.vercel.app/), [IPTV hatip](https://ip-tv.hatip.dev/configure) or [IPTV szie](https://stremio-iptv-szie.onrender.com/) - Free IPTV from [iptv-org](https://github.com/iptv-org/iptv)
+- [StremTV](https://stremtv.vercel.app/), [IPTV hatip](https://ip-tv.hatip.dev/configure) or [IPTV szie](https://stremio-iptv-szie.onrender.com/) - IPTV from [iptv-org](https://github.com/iptv-org/iptv)
 - [CNCVerse Bridge](https://cncverse.dpdns.org/configure)
 - [NuvioSports](https://nuviosports.xyz/)
 
